@@ -1,0 +1,4801 @@
+class,fold,split,id
+olive,0,train,120
+olive,0,train,1191
+olive,0,train,37
+olive,0,train,1183
+olive,0,train,126
+olive,0,train,62
+olive,0,train,1227
+olive,0,train,1182
+olive,0,train,191
+olive,0,train,1390
+olive,0,train,29
+olive,0,train,1218
+olive,0,train,792
+olive,0,train,11
+olive,0,train,1201
+olive,0,train,790
+olive,0,train,176
+olive,0,train,1242
+olive,0,train,185
+olive,0,train,1184
+olive,0,train,159
+olive,0,train,107
+olive,0,train,836
+olive,0,train,201
+olive,0,train,207
+olive,0,train,130
+olive,0,train,462
+olive,0,train,478
+olive,0,train,261
+olive,0,train,158
+olive,0,train,841
+olive,0,train,807
+olive,0,train,202
+olive,0,train,471
+olive,0,train,1508
+olive,0,train,54
+olive,0,train,39
+olive,0,train,109
+olive,0,train,1382
+olive,0,train,489
+olive,0,train,75
+olive,0,train,1220
+olive,0,train,151
+olive,0,train,1392
+olive,0,train,198
+olive,0,train,153
+olive,0,train,875
+olive,0,train,241
+olive,0,train,35
+olive,0,train,135
+olive,0,train,21
+olive,0,train,98
+olive,0,train,1195
+olive,0,train,254
+olive,0,train,1203
+olive,0,train,788
+olive,0,train,783
+olive,0,train,49
+olive,0,train,854
+olive,0,train,42
+olive,0,train,163
+olive,0,train,466
+olive,0,train,491
+olive,0,train,2
+olive,0,train,119
+olive,0,train,122
+olive,0,train,147
+olive,0,test,58
+olive,0,test,173
+olive,0,test,239
+olive,0,test,1676
+olive,0,test,67
+olive,0,test,61
+olive,0,test,454
+olive,0,test,470
+olive,0,test,1193
+olive,0,test,64
+olive,0,test,787
+olive,0,test,1391
+olive,0,test,114
+olive,0,test,488
+olive,0,test,40
+olive,0,test,235
+olive,0,test,1225
+olive,0,test,57
+olive,0,test,1202
+olive,0,test,809
+olive,0,test,1286
+olive,0,test,125
+olive,0,test,1377
+olive,0,test,196
+olive,0,test,1503
+olive,0,test,1679
+olive,0,test,256
+olive,0,test,1683
+olive,0,test,105
+olive,0,test,1507
+olive,0,test,205
+olive,0,test,1279
+olive,0,test,24
+olive,1,train,34
+olive,1,train,795
+olive,1,train,479
+olive,1,train,1283
+olive,1,train,182
+olive,1,train,62
+olive,1,train,809
+olive,1,train,19
+olive,1,train,191
+olive,1,train,1390
+olive,1,train,1500
+olive,1,train,1218
+olive,1,train,204
+olive,1,train,1185
+olive,1,train,1202
+olive,1,train,790
+olive,1,train,1679
+olive,1,train,1507
+olive,1,train,105
+olive,1,train,1184
+olive,1,train,789
+olive,1,train,107
+olive,1,train,836
+olive,1,train,201
+olive,1,train,207
+olive,1,train,804
+olive,1,train,462
+olive,1,train,852
+olive,1,train,261
+olive,1,train,77
+olive,1,train,57
+olive,1,train,32
+olive,1,train,202
+olive,1,train,471
+olive,1,train,1508
+olive,1,train,54
+olive,1,train,256
+olive,1,train,73
+olive,1,train,1382
+olive,1,train,489
+olive,1,train,205
+olive,1,train,1220
+olive,1,train,842
+olive,1,train,1392
+olive,1,train,25
+olive,1,train,846
+olive,1,train,6
+olive,1,train,241
+olive,1,train,35
+olive,1,train,135
+olive,1,train,21
+olive,1,train,76
+olive,1,train,1195
+olive,1,train,488
+olive,1,train,1213
+olive,1,train,788
+olive,1,train,783
+olive,1,train,49
+olive,1,train,854
+olive,1,train,42
+olive,1,train,163
+olive,1,train,125
+olive,1,train,813
+olive,1,train,2
+olive,1,train,141
+olive,1,train,122
+olive,1,train,177
+olive,1,test,165
+olive,1,test,1238
+olive,1,test,1228
+olive,1,test,110
+olive,1,test,116
+olive,1,test,243
+olive,1,test,160
+olive,1,test,1207
+olive,1,test,203
+olive,1,test,855
+olive,1,test,843
+olive,1,test,45
+olive,1,test,1509
+olive,1,test,254
+olive,1,test,7
+olive,1,test,1497
+olive,1,test,1678
+olive,1,test,841
+olive,1,test,1201
+olive,1,test,1227
+olive,1,test,142
+olive,1,test,466
+olive,1,test,146
+olive,1,test,1288
+olive,1,test,145
+olive,1,test,176
+olive,1,test,39
+olive,1,test,144
+olive,1,test,185
+olive,1,test,1242
+olive,1,test,75
+olive,1,test,1498
+olive,1,test,128
+olive,2,train,34
+olive,2,train,795
+olive,2,train,479
+olive,2,train,1283
+olive,2,train,182
+olive,2,train,1238
+olive,2,train,809
+olive,2,train,19
+olive,2,train,82
+olive,2,train,66
+olive,2,train,1500
+olive,2,train,839
+olive,2,train,204
+olive,2,train,1185
+olive,2,train,1202
+olive,2,train,782
+olive,2,train,1679
+olive,2,train,1507
+olive,2,train,105
+olive,2,train,37
+olive,2,train,789
+olive,2,train,160
+olive,2,train,36
+olive,2,train,1214
+olive,2,train,1187
+olive,2,train,804
+olive,2,train,491
+olive,2,train,852
+olive,2,train,200
+olive,2,train,77
+olive,2,train,57
+olive,2,train,32
+olive,2,train,185
+olive,2,train,843
+olive,2,train,1226
+olive,2,train,1497
+olive,2,train,256
+olive,2,train,73
+olive,2,train,1204
+olive,2,train,262
+olive,2,train,205
+olive,2,train,221
+olive,2,train,842
+olive,2,train,1207
+olive,2,train,25
+olive,2,train,846
+olive,2,train,6
+olive,2,train,119
+olive,2,train,478
+olive,2,train,493
+olive,2,train,243
+olive,2,train,76
+olive,2,train,1669
+olive,2,train,488
+olive,2,train,1213
+olive,2,train,1396
+olive,2,train,1241
+olive,2,train,829
+olive,2,train,144
+olive,2,train,461
+olive,2,train,75
+olive,2,train,125
+olive,2,train,813
+olive,2,train,1209
+olive,2,train,141
+olive,2,train,472
+olive,2,train,177
+olive,2,test,1383
+olive,2,test,62
+olive,2,test,55
+olive,2,test,216
+olive,2,test,1190
+olive,2,test,21
+olive,2,test,107
+olive,2,test,1392
+olive,2,test,242
+olive,2,test,217
+olive,2,test,471
+olive,2,test,805
+olive,2,test,236
+olive,2,test,63
+olive,2,test,484
+olive,2,test,54
+olive,2,test,214
+olive,2,test,1192
+olive,2,test,458
+olive,2,test,89
+olive,2,test,257
+olive,2,test,255
+olive,2,test,48
+olive,2,test,5
+olive,2,test,1244
+olive,2,test,1186
+olive,2,test,784
+olive,2,test,854
+olive,2,test,202
+olive,2,test,157
+olive,2,test,163
+olive,2,test,41
+olive,2,test,150
+short cycl,0,train,670
+short cycl,0,train,571
+short cycl,0,train,687
+short cycl,0,train,730
+short cycl,0,train,950
+short cycl,0,train,658
+short cycl,0,train,1652
+short cycl,0,train,645
+short cycl,0,train,594
+short cycl,0,train,1084
+short cycl,0,train,686
+short cycl,0,train,1015
+short cycl,0,train,673
+short cycl,0,train,350
+short cycl,0,train,387
+short cycl,0,train,948
+short cycl,0,train,273
+short cycl,0,train,1014
+short cycl,0,train,275
+short cycl,0,train,962
+short cycl,0,train,322
+short cycl,0,train,379
+short cycl,0,train,621
+short cycl,0,train,361
+short cycl,0,train,298
+short cycl,0,train,422
+short cycl,0,train,619
+short cycl,0,train,669
+short cycl,0,train,932
+short cycl,0,train,887
+short cycl,0,train,959
+short cycl,0,train,1655
+short cycl,0,train,616
+short cycl,0,train,1651
+short cycl,0,train,381
+short cycl,0,train,437
+short cycl,0,train,661
+short cycl,0,train,410
+short cycl,0,train,580
+short cycl,0,train,431
+short cycl,0,train,602
+short cycl,0,train,321
+short cycl,0,train,1013
+short cycl,0,train,599
+short cycl,0,train,903
+short cycl,0,train,500
+short cycl,0,train,301
+short cycl,0,train,292
+short cycl,0,train,724
+short cycl,0,train,961
+short cycl,0,train,1109
+short cycl,0,train,944
+short cycl,0,train,966
+short cycl,0,train,957
+short cycl,0,train,1423
+short cycl,0,train,622
+short cycl,0,train,879
+short cycl,0,train,429
+short cycl,0,train,726
+short cycl,0,train,725
+short cycl,0,train,272
+short cycl,0,train,1108
+short cycl,0,train,734
+short cycl,0,train,349
+short cycl,0,train,935
+short cycl,0,train,368
+short cycl,0,train,740
+short cycl,0,test,403
+short cycl,0,test,302
+short cycl,0,test,1075
+short cycl,0,test,1079
+short cycl,0,test,420
+short cycl,0,test,583
+short cycl,0,test,942
+short cycl,0,test,885
+short cycl,0,test,355
+short cycl,0,test,881
+short cycl,0,test,880
+short cycl,0,test,345
+short cycl,0,test,1478
+short cycl,0,test,570
+short cycl,0,test,1466
+short cycl,0,test,585
+short cycl,0,test,371
+short cycl,0,test,299
+short cycl,0,test,394
+short cycl,0,test,392
+short cycl,0,test,344
+short cycl,0,test,400
+short cycl,0,test,1090
+short cycl,0,test,965
+short cycl,0,test,369
+short cycl,0,test,449
+short cycl,0,test,943
+short cycl,0,test,642
+short cycl,0,test,1657
+short cycl,0,test,376
+short cycl,0,test,303
+short cycl,0,test,626
+short cycl,0,test,438
+short cycl,1,train,727
+short cycl,1,train,571
+short cycl,1,train,687
+short cycl,1,train,495
+short cycl,1,train,950
+short cycl,1,train,658
+short cycl,1,train,1657
+short cycl,1,train,645
+short cycl,1,train,594
+short cycl,1,train,1084
+short cycl,1,train,686
+short cycl,1,train,355
+short cycl,1,train,673
+short cycl,1,train,681
+short cycl,1,train,585
+short cycl,1,train,1472
+short cycl,1,train,592
+short cycl,1,train,583
+short cycl,1,train,335
+short cycl,1,train,931
+short cycl,1,train,322
+short cycl,1,train,379
+short cycl,1,train,621
+short cycl,1,train,733
+short cycl,1,train,308
+short cycl,1,train,881
+short cycl,1,train,400
+short cycl,1,train,1654
+short cycl,1,train,432
+short cycl,1,train,880
+short cycl,1,train,914
+short cycl,1,train,1655
+short cycl,1,train,1068
+short cycl,1,train,1651
+short cycl,1,train,381
+short cycl,1,train,437
+short cycl,1,train,661
+short cycl,1,train,886
+short cycl,1,train,580
+short cycl,1,train,431
+short cycl,1,train,674
+short cycl,1,train,420
+short cycl,1,train,610
+short cycl,1,train,390
+short cycl,1,train,903
+short cycl,1,train,423
+short cycl,1,train,301
+short cycl,1,train,367
+short cycl,1,train,724
+short cycl,1,train,961
+short cycl,1,train,1478
+short cycl,1,train,276
+short cycl,1,train,966
+short cycl,1,train,957
+short cycl,1,train,1090
+short cycl,1,train,622
+short cycl,1,train,879
+short cycl,1,train,429
+short cycl,1,train,369
+short cycl,1,train,725
+short cycl,1,train,498
+short cycl,1,train,1466
+short cycl,1,train,734
+short cycl,1,train,436
+short cycl,1,train,642
+short cycl,1,train,885
+short cycl,1,train,1075
+short cycl,1,test,683
+short cycl,1,test,397
+short cycl,1,test,740
+short cycl,1,test,611
+short cycl,1,test,321
+short cycl,1,test,1014
+short cycl,1,test,266
+short cycl,1,test,368
+short cycl,1,test,1015
+short cycl,1,test,422
+short cycl,1,test,887
+short cycl,1,test,688
+short cycl,1,test,1109
+short cycl,1,test,401
+short cycl,1,test,1108
+short cycl,1,test,387
+short cycl,1,test,265
+short cycl,1,test,1074
+short cycl,1,test,450
+short cycl,1,test,1088
+short cycl,1,test,1072
+short cycl,1,test,619
+short cycl,1,test,1423
+short cycl,1,test,433
+short cycl,1,test,726
+short cycl,1,test,373
+short cycl,1,test,297
+short cycl,1,test,935
+short cycl,1,test,1652
+short cycl,1,test,739
+short cycl,1,test,295
+short cycl,1,test,407
+short cycl,1,test,320
+short cycl,2,train,727
+short cycl,2,train,1015
+short cycl,2,train,1109
+short cycl,2,train,495
+short cycl,2,train,1088
+short cycl,2,train,600
+short cycl,2,train,1657
+short cycl,2,train,644
+short cycl,2,train,624
+short cycl,2,train,406
+short cycl,2,train,632
+short cycl,2,train,355
+short cycl,2,train,1083
+short cycl,2,train,681
+short cycl,2,train,585
+short cycl,2,train,1472
+short cycl,2,train,592
+short cycl,2,train,583
+short cycl,2,train,335
+short cycl,2,train,931
+short cycl,2,train,298
+short cycl,2,train,648
+short cycl,2,train,1423
+short cycl,2,train,733
+short cycl,2,train,308
+short cycl,2,train,881
+short cycl,2,train,400
+short cycl,2,train,1654
+short cycl,2,train,432
+short cycl,2,train,880
+short cycl,2,train,914
+short cycl,2,train,349
+short cycl,2,train,1068
+short cycl,2,train,682
+short cycl,2,train,506
+short cycl,2,train,320
+short cycl,2,train,501
+short cycl,2,train,886
+short cycl,2,train,505
+short cycl,2,train,277
+short cycl,2,train,674
+short cycl,2,train,420
+short cycl,2,train,610
+short cycl,2,train,390
+short cycl,2,train,409
+short cycl,2,train,423
+short cycl,2,train,1653
+short cycl,2,train,367
+short cycl,2,train,651
+short cycl,2,train,737
+short cycl,2,train,1478
+short cycl,2,train,276
+short cycl,2,train,275
+short cycl,2,train,1085
+short cycl,2,train,1090
+short cycl,2,train,1072
+short cycl,2,train,395
+short cycl,2,train,948
+short cycl,2,train,369
+short cycl,2,train,500
+short cycl,2,train,498
+short cycl,2,train,1466
+short cycl,2,train,962
+short cycl,2,train,436
+short cycl,2,train,642
+short cycl,2,train,885
+short cycl,2,train,1075
+short cycl,2,test,653
+short cycl,2,test,502
+short cycl,2,test,497
+short cycl,2,test,655
+short cycl,2,test,650
+short cycl,2,test,364
+short cycl,2,test,269
+short cycl,2,test,912
+short cycl,2,test,571
+short cycl,2,test,360
+short cycl,2,test,1468
+short cycl,2,test,640
+short cycl,2,test,687
+short cycl,2,test,643
+short cycl,2,test,613
+short cycl,2,test,934
+short cycl,2,test,663
+short cycl,2,test,963
+short cycl,2,test,356
+short cycl,2,test,950
+short cycl,2,test,622
+short cycl,2,test,1016
+short cycl,2,test,621
+short cycl,2,test,883
+short cycl,2,test,421
+short cycl,2,test,391
+short cycl,2,test,319
+short cycl,2,test,296
+short cycl,2,test,294
+short cycl,2,test,901
+short cycl,2,test,408
+short cycl,2,test,690
+short cycl,2,test,437
+forage,0,train,281
+forage,0,train,1012
+forage,0,train,1067
+forage,0,train,1411
+forage,0,train,2125
+forage,0,train,288
+forage,0,train,1005
+forage,0,train,941
+forage,0,train,1469
+forage,0,train,1416
+forage,0,train,1415
+forage,0,train,1094
+forage,0,train,1097
+forage,0,train,824
+forage,0,train,822
+forage,0,train,280
+forage,0,train,1100
+forage,0,train,1011
+forage,0,train,675
+forage,0,train,1814
+forage,0,train,1483
+forage,0,train,677
+forage,0,train,1972
+forage,0,train,1104
+forage,0,train,940
+forage,0,train,1470
+forage,0,train,1412
+forage,0,train,1487
+forage,0,train,1065
+forage,0,train,1417
+forage,0,train,1495
+forage,0,train,1488
+forage,0,train,1811
+forage,0,train,1098
+forage,0,train,282
+forage,0,train,1008
+forage,0,train,1887
+forage,0,train,286
+forage,0,train,1063
+forage,0,train,2124
+forage,0,train,1493
+forage,0,train,823
+forage,0,train,679
+forage,0,train,1888
+forage,0,train,1489
+forage,0,train,1105
+forage,0,train,1064
+forage,0,train,1099
+forage,0,train,1485
+forage,0,train,1003
+forage,0,train,1103
+forage,0,train,1491
+forage,0,train,1095
+forage,0,train,825
+forage,0,train,680
+forage,0,train,283
+forage,0,train,939
+forage,0,train,678
+forage,0,train,1101
+forage,0,train,1490
+forage,0,train,1413
+forage,0,train,1009
+forage,0,train,676
+forage,0,train,1003
+forage,0,train,941
+forage,0,train,1493
+forage,0,train,1490
+forage,0,test,1812
+forage,0,test,1106
+forage,0,test,1062
+forage,0,test,1889
+forage,0,test,1494
+forage,0,test,1813
+forage,0,test,1096
+forage,0,test,1102
+forage,0,test,1010
+forage,0,test,1471
+forage,0,test,1970
+forage,0,test,1410
+forage,0,test,1006
+forage,0,test,287
+forage,0,test,1004
+forage,0,test,2123
+forage,0,test,1481
+forage,0,test,1482
+forage,0,test,1484
+forage,0,test,1492
+forage,0,test,1971
+forage,0,test,1093
+forage,0,test,1066
+forage,0,test,1107
+forage,0,test,1486
+forage,0,test,2126
+forage,0,test,284
+forage,0,test,938
+forage,0,test,1007
+forage,0,test,1414
+forage,0,test,285
+forage,0,test,1410
+forage,0,test,1482
+forage,1,train,281
+forage,1,train,1481
+forage,1,train,2126
+forage,1,train,1411
+forage,1,train,1004
+forage,1,train,1484
+forage,1,train,287
+forage,1,train,941
+forage,1,train,1494
+forage,1,train,1007
+forage,1,train,1415
+forage,1,train,1410
+forage,1,train,1066
+forage,1,train,938
+forage,1,train,1106
+forage,1,train,1062
+forage,1,train,1096
+forage,1,train,1011
+forage,1,train,2123
+forage,1,train,1814
+forage,1,train,1483
+forage,1,train,1486
+forage,1,train,1972
+forage,1,train,1104
+forage,1,train,1813
+forage,1,train,1470
+forage,1,train,1107
+forage,1,train,1487
+forage,1,train,1065
+forage,1,train,1417
+forage,1,train,1495
+forage,1,train,1488
+forage,1,train,1471
+forage,1,train,1482
+forage,1,train,282
+forage,1,train,1093
+forage,1,train,1887
+forage,1,train,1010
+forage,1,train,1812
+forage,1,train,284
+forage,1,train,1493
+forage,1,train,823
+forage,1,train,1006
+forage,1,train,1970
+forage,1,train,1489
+forage,1,train,1105
+forage,1,train,1064
+forage,1,train,1099
+forage,1,train,1492
+forage,1,train,1003
+forage,1,train,1889
+forage,1,train,1102
+forage,1,train,1971
+forage,1,train,825
+forage,1,train,680
+forage,1,train,283
+forage,1,train,939
+forage,1,train,678
+forage,1,train,1414
+forage,1,train,1490
+forage,1,train,1413
+forage,1,train,1009
+forage,1,train,285
+forage,1,train,1003
+forage,1,train,941
+forage,1,train,1493
+forage,1,train,1490
+forage,1,test,1063
+forage,1,test,822
+forage,1,test,280
+forage,1,test,1103
+forage,1,test,1469
+forage,1,test,940
+forage,1,test,1100
+forage,1,test,1491
+forage,1,test,286
+forage,1,test,1811
+forage,1,test,1888
+forage,1,test,1094
+forage,1,test,679
+forage,1,test,1005
+forage,1,test,2125
+forage,1,test,675
+forage,1,test,1012
+forage,1,test,1098
+forage,1,test,288
+forage,1,test,1485
+forage,1,test,1095
+forage,1,test,1008
+forage,1,test,1097
+forage,1,test,1412
+forage,1,test,677
+forage,1,test,1067
+forage,1,test,2124
+forage,1,test,824
+forage,1,test,1416
+forage,1,test,1101
+forage,1,test,676
+forage,1,test,1094
+forage,1,test,1098
+forage,2,train,1416
+forage,2,train,1481
+forage,2,train,2126
+forage,2,train,1095
+forage,2,train,1004
+forage,2,train,1484
+forage,2,train,287
+forage,2,train,1491
+forage,2,train,1494
+forage,2,train,1007
+forage,2,train,1469
+forage,2,train,1410
+forage,2,train,1066
+forage,2,train,938
+forage,2,train,1106
+forage,2,train,1062
+forage,2,train,1096
+forage,2,train,1100
+forage,2,train,2123
+forage,2,train,286
+forage,2,train,1063
+forage,2,train,1486
+forage,2,train,1103
+forage,2,train,1012
+forage,2,train,1813
+forage,2,train,280
+forage,2,train,1107
+forage,2,train,676
+forage,2,train,1097
+forage,2,train,1094
+forage,2,train,1101
+forage,2,train,1008
+forage,2,train,1471
+forage,2,train,1482
+forage,2,train,1067
+forage,2,train,1093
+forage,2,train,1412
+forage,2,train,1010
+forage,2,train,1812
+forage,2,train,284
+forage,2,train,824
+forage,2,train,1811
+forage,2,train,1006
+forage,2,train,1970
+forage,2,train,2125
+forage,2,train,1485
+forage,2,train,677
+forage,2,train,2124
+forage,2,train,1492
+forage,2,train,288
+forage,2,train,1889
+forage,2,train,1102
+forage,2,train,1971
+forage,2,train,822
+forage,2,train,940
+forage,2,train,675
+forage,2,train,939
+forage,2,train,1888
+forage,2,train,1414
+forage,2,train,679
+forage,2,train,1098
+forage,2,train,1005
+forage,2,train,285
+forage,2,train,288
+forage,2,train,1491
+forage,2,train,824
+forage,2,train,679
+forage,2,test,1483
+forage,2,test,825
+forage,2,test,1470
+forage,2,test,1972
+forage,2,test,1415
+forage,2,test,680
+forage,2,test,1011
+forage,2,test,941
+forage,2,test,1814
+forage,2,test,823
+forage,2,test,678
+forage,2,test,1417
+forage,2,test,1490
+forage,2,test,1009
+forage,2,test,1489
+forage,2,test,283
+forage,2,test,1104
+forage,2,test,1413
+forage,2,test,1003
+forage,2,test,1105
+forage,2,test,1411
+forage,2,test,1488
+forage,2,test,1065
+forage,2,test,1887
+forage,2,test,1064
+forage,2,test,282
+forage,2,test,1099
+forage,2,test,1493
+forage,2,test,281
+forage,2,test,1495
+forage,2,test,1487
+forage,2,test,1417
+forage,2,test,1413
+orange,0,train,2653
+orange,0,train,2644
+orange,0,train,524
+orange,0,train,2651
+orange,0,train,1819
+orange,0,train,532
+orange,0,train,552
+orange,0,train,2634
+orange,0,train,2654
+orange,0,train,1820
+orange,0,train,2652
+orange,0,train,2632
+orange,0,train,2657
+orange,0,train,522
+orange,0,train,2650
+orange,0,train,511
+orange,0,train,553
+orange,0,train,530
+orange,0,train,556
+orange,0,train,2642
+orange,0,train,1176
+orange,0,train,1514
+orange,0,train,561
+orange,0,train,554
+orange,0,train,525
+orange,0,train,2661
+orange,0,train,560
+orange,0,train,2662
+orange,0,train,551
+orange,0,train,562
+orange,0,train,2646
+orange,0,train,2635
+orange,0,train,2630
+orange,0,train,2660
+orange,0,train,2640
+orange,0,train,2631
+orange,0,train,2626
+orange,0,train,2629
+orange,0,train,550
+orange,0,train,520
+orange,0,train,2105
+orange,0,train,1755
+orange,0,train,563
+orange,0,train,2621
+orange,0,train,514
+orange,0,train,558
+orange,0,train,2643
+orange,0,train,2633
+orange,0,train,1177
+orange,0,train,513
+orange,0,train,2658
+orange,0,train,549
+orange,0,train,2645
+orange,0,train,577
+orange,0,train,519
+orange,0,train,1175
+orange,0,train,557
+orange,0,train,2623
+orange,0,train,2655
+orange,0,train,1060
+orange,0,train,1162
+orange,0,train,576
+orange,0,train,1756
+orange,0,train,516
+orange,0,train,2627
+orange,0,train,2624
+orange,0,train,564
+orange,0,test,2641
+orange,0,test,2108
+orange,0,test,517
+orange,0,test,2639
+orange,0,test,533
+orange,0,test,1818
+orange,0,test,527
+orange,0,test,2659
+orange,0,test,510
+orange,0,test,512
+orange,0,test,555
+orange,0,test,2656
+orange,0,test,2637
+orange,0,test,518
+orange,0,test,2648
+orange,0,test,2625
+orange,0,test,508
+orange,0,test,529
+orange,0,test,575
+orange,0,test,526
+orange,0,test,521
+orange,0,test,565
+orange,0,test,1754
+orange,0,test,2663
+orange,0,test,559
+orange,0,test,534
+orange,0,test,2622
+orange,0,test,2636
+orange,0,test,515
+orange,0,test,2638
+orange,0,test,509
+orange,0,test,528
+orange,0,test,574
+orange,1,train,2653
+orange,1,train,2644
+orange,1,train,528
+orange,1,train,2651
+orange,1,train,510
+orange,1,train,532
+orange,1,train,552
+orange,1,train,515
+orange,1,train,1754
+orange,1,train,2639
+orange,1,train,2652
+orange,1,train,555
+orange,1,train,575
+orange,1,train,522
+orange,1,train,2650
+orange,1,train,511
+orange,1,train,553
+orange,1,train,512
+orange,1,train,556
+orange,1,train,534
+orange,1,train,517
+orange,1,train,2638
+orange,1,train,2648
+orange,1,train,554
+orange,1,train,525
+orange,1,train,509
+orange,1,train,2659
+orange,1,train,2662
+orange,1,train,508
+orange,1,train,1818
+orange,1,train,2108
+orange,1,train,2635
+orange,1,train,2630
+orange,1,train,2641
+orange,1,train,2640
+orange,1,train,533
+orange,1,train,2626
+orange,1,train,2647
+orange,1,train,2656
+orange,1,train,520
+orange,1,train,2105
+orange,1,train,1755
+orange,1,train,2637
+orange,1,train,526
+orange,1,train,514
+orange,1,train,558
+orange,1,train,2643
+orange,1,train,2633
+orange,1,train,1177
+orange,1,train,2622
+orange,1,train,2658
+orange,1,train,2625
+orange,1,train,2645
+orange,1,train,559
+orange,1,train,527
+orange,1,train,529
+orange,1,train,557
+orange,1,train,2623
+orange,1,train,2655
+orange,1,train,518
+orange,1,train,521
+orange,1,train,576
+orange,1,train,1756
+orange,1,train,516
+orange,1,train,565
+orange,1,train,2663
+orange,1,train,564
+orange,1,test,2660
+orange,1,test,2646
+orange,1,test,1176
+orange,1,test,1820
+orange,1,test,2631
+orange,1,test,562
+orange,1,test,519
+orange,1,test,560
+orange,1,test,1819
+orange,1,test,530
+orange,1,test,2632
+orange,1,test,550
+orange,1,test,563
+orange,1,test,1060
+orange,1,test,561
+orange,1,test,549
+orange,1,test,551
+orange,1,test,1175
+orange,1,test,2657
+orange,1,test,2621
+orange,1,test,1162
+orange,1,test,2627
+orange,1,test,2654
+orange,1,test,2624
+orange,1,test,577
+orange,1,test,2642
+orange,1,test,513
+orange,1,test,1061
+orange,1,test,2634
+orange,1,test,1514
+orange,1,test,2661
+orange,1,test,524
+orange,1,test,2649
+orange,2,train,2621
+orange,2,train,2631
+orange,2,train,528
+orange,2,train,549
+orange,2,train,510
+orange,2,train,2627
+orange,2,train,519
+orange,2,train,515
+orange,2,train,1754
+orange,2,train,2639
+orange,2,train,1162
+orange,2,train,555
+orange,2,train,575
+orange,2,train,577
+orange,2,train,513
+orange,2,train,2646
+orange,2,train,550
+orange,2,train,512
+orange,2,train,2624
+orange,2,train,534
+orange,2,train,517
+orange,2,train,2638
+orange,2,train,2648
+orange,2,train,1061
+orange,2,train,1175
+orange,2,train,509
+orange,2,train,2659
+orange,2,train,1819
+orange,2,train,508
+orange,2,train,1818
+orange,2,train,2108
+orange,2,train,1820
+orange,2,train,2634
+orange,2,train,2641
+orange,2,train,551
+orange,2,train,533
+orange,2,train,1176
+orange,2,train,2647
+orange,2,train,2656
+orange,2,train,2660
+orange,2,train,2628
+orange,2,train,562
+orange,2,train,2637
+orange,2,train,526
+orange,2,train,2654
+orange,2,train,560
+orange,2,train,1514
+orange,2,train,2633
+orange,2,train,1060
+orange,2,train,2622
+orange,2,train,2649
+orange,2,train,2625
+orange,2,train,2657
+orange,2,train,559
+orange,2,train,527
+orange,2,train,529
+orange,2,train,524
+orange,2,train,2642
+orange,2,train,2629
+orange,2,train,518
+orange,2,train,521
+orange,2,train,530
+orange,2,train,563
+orange,2,train,561
+orange,2,train,565
+orange,2,train,2663
+orange,2,train,2661
+orange,2,test,520
+orange,2,test,511
+orange,2,test,2626
+orange,2,test,2635
+orange,2,test,2644
+orange,2,test,1755
+orange,2,test,552
+orange,2,test,558
+orange,2,test,2662
+orange,2,test,576
+orange,2,test,523
+orange,2,test,553
+orange,2,test,1756
+orange,2,test,1177
+orange,2,test,516
+orange,2,test,2651
+orange,2,test,2640
+orange,2,test,525
+orange,2,test,2645
+orange,2,test,2653
+orange,2,test,2652
+orange,2,test,532
+orange,2,test,514
+orange,2,test,556
+orange,2,test,522
+orange,2,test,2623
+orange,2,test,2650
+orange,2,test,554
+orange,2,test,2630
+orange,2,test,2643
+orange,2,test,564
+orange,2,test,557
+orange,2,test,2658
+mandarin,0,train,1945
+mandarin,0,train,1621
+mandarin,0,train,1617
+mandarin,0,train,1895
+mandarin,0,train,1913
+mandarin,0,train,1893
+mandarin,0,train,992
+mandarin,0,train,1619
+mandarin,0,train,2102
+mandarin,0,train,1571
+mandarin,0,train,995
+mandarin,0,train,1890
+mandarin,0,train,1737
+mandarin,0,train,1001
+mandarin,0,train,819
+mandarin,0,train,868
+mandarin,0,train,1112
+mandarin,0,train,1741
+mandarin,0,train,1116
+mandarin,0,train,1117
+mandarin,0,train,993
+mandarin,0,train,1744
+mandarin,0,train,2191
+mandarin,0,train,1567
+mandarin,0,train,1894
+mandarin,0,train,1998
+mandarin,0,train,1618
+mandarin,0,train,542
+mandarin,0,train,1904
+mandarin,0,train,991
+mandarin,0,train,1892
+mandarin,0,train,1953
+mandarin,0,train,862
+mandarin,0,train,537
+mandarin,0,train,1996
+mandarin,0,train,536
+mandarin,0,train,1616
+mandarin,0,train,972
+mandarin,0,train,1572
+mandarin,0,train,891
+mandarin,0,train,535
+mandarin,0,train,1743
+mandarin,0,train,538
+mandarin,0,train,1622
+mandarin,0,train,893
+mandarin,0,train,1110
+mandarin,0,train,1113
+mandarin,0,train,1897
+mandarin,0,train,1163
+mandarin,0,train,1901
+mandarin,0,train,1948
+mandarin,0,train,1823
+mandarin,0,train,1947
+mandarin,0,train,1943
+mandarin,0,train,869
+mandarin,0,train,1114
+mandarin,0,train,1641
+mandarin,0,train,1738
+mandarin,0,train,867
+mandarin,0,train,1909
+mandarin,0,train,895
+mandarin,0,train,1111
+mandarin,0,train,1944
+mandarin,0,train,1659
+mandarin,0,train,1569
+mandarin,0,train,815
+mandarin,0,train,1623
+mandarin,0,test,1912
+mandarin,0,test,973
+mandarin,0,test,1911
+mandarin,0,test,545
+mandarin,0,test,997
+mandarin,0,test,1739
+mandarin,0,test,1822
+mandarin,0,test,1746
+mandarin,0,test,870
+mandarin,0,test,1900
+mandarin,0,test,543
+mandarin,0,test,971
+mandarin,0,test,820
+mandarin,0,test,1740
+mandarin,0,test,1748
+mandarin,0,test,1745
+mandarin,0,test,1658
+mandarin,0,test,1736
+mandarin,0,test,990
+mandarin,0,test,1747
+mandarin,0,test,1946
+mandarin,0,test,818
+mandarin,0,test,858
+mandarin,0,test,970
+mandarin,0,test,894
+mandarin,0,test,1570
+mandarin,0,test,821
+mandarin,0,test,548
+mandarin,0,test,996
+mandarin,0,test,866
+mandarin,0,test,1906
+mandarin,0,test,1899
+mandarin,0,test,1742
+mandarin,1,train,1945
+mandarin,1,train,1908
+mandarin,1,train,1739
+mandarin,1,train,1895
+mandarin,1,train,1913
+mandarin,1,train,971
+mandarin,1,train,997
+mandarin,1,train,1619
+mandarin,1,train,858
+mandarin,1,train,864
+mandarin,1,train,1642
+mandarin,1,train,1900
+mandarin,1,train,990
+mandarin,1,train,1001
+mandarin,1,train,1740
+mandarin,1,train,868
+mandarin,1,train,1112
+mandarin,1,train,861
+mandarin,1,train,1570
+mandarin,1,train,1117
+mandarin,1,train,993
+mandarin,1,train,1744
+mandarin,1,train,2191
+mandarin,1,train,1891
+mandarin,1,train,866
+mandarin,1,train,1998
+mandarin,1,train,1822
+mandarin,1,train,1748
+mandarin,1,train,545
+mandarin,1,train,870
+mandarin,1,train,1946
+mandarin,1,train,1953
+mandarin,1,train,1911
+mandarin,1,train,537
+mandarin,1,train,1996
+mandarin,1,train,536
+mandarin,1,train,1899
+mandarin,1,train,973
+mandarin,1,train,1572
+mandarin,1,train,996
+mandarin,1,train,818
+mandarin,1,train,1743
+mandarin,1,train,1906
+mandarin,1,train,1622
+mandarin,1,train,1912
+mandarin,1,train,970
+mandarin,1,train,1113
+mandarin,1,train,1746
+mandarin,1,train,1747
+mandarin,1,train,543
+mandarin,1,train,1948
+mandarin,1,train,820
+mandarin,1,train,821
+mandarin,1,train,1943
+mandarin,1,train,869
+mandarin,1,train,1736
+mandarin,1,train,1641
+mandarin,1,train,1738
+mandarin,1,train,867
+mandarin,1,train,1909
+mandarin,1,train,895
+mandarin,1,train,1111
+mandarin,1,train,1999
+mandarin,1,train,1745
+mandarin,1,train,1569
+mandarin,1,train,1568
+mandarin,1,train,1623
+mandarin,1,test,893
+mandarin,1,test,972
+mandarin,1,test,862
+mandarin,1,test,1904
+mandarin,1,test,992
+mandarin,1,test,1617
+mandarin,1,test,1618
+mandarin,1,test,1897
+mandarin,1,test,991
+mandarin,1,test,1890
+mandarin,1,test,1901
+mandarin,1,test,1893
+mandarin,1,test,1823
+mandarin,1,test,819
+mandarin,1,test,542
+mandarin,1,test,1659
+mandarin,1,test,1620
+mandarin,1,test,1114
+mandarin,1,test,1737
+mandarin,1,test,1163
+mandarin,1,test,1892
+mandarin,1,test,535
+mandarin,1,test,2102
+mandarin,1,test,1110
+mandarin,1,test,541
+mandarin,1,test,1116
+mandarin,1,test,1947
+mandarin,1,test,1949
+mandarin,1,test,891
+mandarin,1,test,1894
+mandarin,1,test,538
+mandarin,1,test,1616
+mandarin,1,test,1954
+mandarin,2,train,1904
+mandarin,2,train,1908
+mandarin,2,train,1739
+mandarin,2,train,1944
+mandarin,2,train,1949
+mandarin,2,train,971
+mandarin,2,train,997
+mandarin,2,train,1902
+mandarin,2,train,858
+mandarin,2,train,864
+mandarin,2,train,1642
+mandarin,2,train,1900
+mandarin,2,train,990
+mandarin,2,train,1620
+mandarin,2,train,1740
+mandarin,2,train,863
+mandarin,2,train,1894
+mandarin,2,train,861
+mandarin,2,train,1570
+mandarin,2,train,815
+mandarin,2,train,1163
+mandarin,2,train,1737
+mandarin,2,train,1910
+mandarin,2,train,1891
+mandarin,2,train,866
+mandarin,2,train,1002
+mandarin,2,train,1822
+mandarin,2,train,1748
+mandarin,2,train,545
+mandarin,2,train,870
+mandarin,2,train,1946
+mandarin,2,train,893
+mandarin,2,train,1911
+mandarin,2,train,862
+mandarin,2,train,972
+mandarin,2,train,1898
+mandarin,2,train,1899
+mandarin,2,train,973
+mandarin,2,train,819
+mandarin,2,train,996
+mandarin,2,train,818
+mandarin,2,train,1618
+mandarin,2,train,1906
+mandarin,2,train,891
+mandarin,2,train,1912
+mandarin,2,train,970
+mandarin,2,train,1897
+mandarin,2,train,1746
+mandarin,2,train,1747
+mandarin,2,train,543
+mandarin,2,train,535
+mandarin,2,train,820
+mandarin,2,train,821
+mandarin,2,train,1893
+mandarin,2,train,542
+mandarin,2,train,1736
+mandarin,2,train,1567
+mandarin,2,train,1954
+mandarin,2,train,995
+mandarin,2,train,541
+mandarin,2,train,1890
+mandarin,2,train,538
+mandarin,2,train,1999
+mandarin,2,train,1745
+mandarin,2,train,1569
+mandarin,2,train,1568
+mandarin,2,train,1741
+mandarin,2,test,1953
+mandarin,2,test,1996
+mandarin,2,test,537
+mandarin,2,test,1945
+mandarin,2,test,1950
+mandarin,2,test,817
+mandarin,2,test,1743
+mandarin,2,test,1113
+mandarin,2,test,1951
+mandarin,2,test,895
+mandarin,2,test,2193
+mandarin,2,test,1943
+mandarin,2,test,547
+mandarin,2,test,1572
+mandarin,2,test,869
+mandarin,2,test,865
+mandarin,2,test,1001
+mandarin,2,test,860
+mandarin,2,test,1744
+mandarin,2,test,993
+mandarin,2,test,2192
+mandarin,2,test,1948
+mandarin,2,test,1821
+mandarin,2,test,1905
+mandarin,2,test,1909
+mandarin,2,test,1896
+mandarin,2,test,859
+mandarin,2,test,1913
+mandarin,2,test,1622
+mandarin,2,test,1112
+mandarin,2,test,1111
+mandarin,2,test,1000
+mandarin,2,test,1738
+walnut,0,train,2273
+walnut,0,train,1992
+walnut,0,train,2303
+walnut,0,train,2268
+walnut,0,train,2279
+walnut,0,train,888
+walnut,0,train,889
+walnut,0,train,2301
+walnut,0,train,2244
+walnut,0,train,2287
+walnut,0,train,920
+walnut,0,train,1991
+walnut,0,train,2252
+walnut,0,train,1817
+walnut,0,train,2299
+walnut,0,train,930
+walnut,0,train,1815
+walnut,0,train,2260
+walnut,0,train,2247
+walnut,0,train,2275
+walnut,0,train,2292
+walnut,0,train,2127
+walnut,0,train,2265
+walnut,0,train,2269
+walnut,0,train,922
+walnut,0,train,1993
+walnut,0,train,2271
+walnut,0,train,2278
+walnut,0,train,2284
+walnut,0,train,2257
+walnut,0,train,2012
+walnut,0,train,924
+walnut,0,train,917
+walnut,0,train,2274
+walnut,0,train,2255
+walnut,0,train,2245
+walnut,0,train,1816
+walnut,0,train,2256
+walnut,0,train,2248
+walnut,0,train,2266
+walnut,0,train,921
+walnut,0,train,609
+walnut,0,train,2261
+walnut,0,train,2288
+walnut,0,train,2128
+walnut,0,train,2281
+walnut,0,train,1988
+walnut,0,train,2277
+walnut,0,train,2262
+walnut,0,train,2251
+walnut,0,train,2264
+walnut,0,train,2259
+walnut,0,train,2250
+walnut,0,train,2297
+walnut,0,train,2280
+walnut,0,train,2289
+walnut,0,train,2285
+walnut,0,train,2253
+walnut,0,train,2254
+walnut,0,train,919
+walnut,0,train,2286
+walnut,0,train,918
+walnut,0,train,2272
+walnut,0,train,927
+walnut,0,train,2127
+walnut,0,train,1988
+walnut,0,train,2287
+walnut,0,test,2283
+walnut,0,test,2263
+walnut,0,test,1989
+walnut,0,test,2293
+walnut,0,test,2246
+walnut,0,test,2013
+walnut,0,test,2249
+walnut,0,test,928
+walnut,0,test,2296
+walnut,0,test,1994
+walnut,0,test,2282
+walnut,0,test,1995
+walnut,0,test,2302
+walnut,0,test,2298
+walnut,0,test,2270
+walnut,0,test,2300
+walnut,0,test,2295
+walnut,0,test,2267
+walnut,0,test,607
+walnut,0,test,925
+walnut,0,test,2258
+walnut,0,test,1990
+walnut,0,test,2294
+walnut,0,test,929
+walnut,0,test,2276
+walnut,0,test,923
+walnut,0,test,2291
+walnut,0,test,2290
+walnut,0,test,926
+walnut,0,test,608
+walnut,0,test,916
+walnut,0,test,1994
+walnut,0,test,607
+walnut,1,train,2273
+walnut,1,train,1992
+walnut,1,train,2303
+walnut,1,train,2268
+walnut,1,train,928
+walnut,1,train,2300
+walnut,1,train,889
+walnut,1,train,2301
+walnut,1,train,2244
+walnut,1,train,2287
+walnut,1,train,920
+walnut,1,train,1994
+walnut,1,train,1989
+walnut,1,train,2270
+walnut,1,train,2299
+walnut,1,train,926
+walnut,1,train,2013
+walnut,1,train,2260
+walnut,1,train,2263
+walnut,1,train,2275
+walnut,1,train,925
+walnut,1,train,2127
+walnut,1,train,2246
+walnut,1,train,2294
+walnut,1,train,2293
+walnut,1,train,2267
+walnut,1,train,923
+walnut,1,train,2258
+walnut,1,train,2291
+walnut,1,train,2257
+walnut,1,train,2283
+walnut,1,train,2296
+walnut,1,train,917
+walnut,1,train,2274
+walnut,1,train,2298
+walnut,1,train,607
+walnut,1,train,1816
+walnut,1,train,2282
+walnut,1,train,2249
+walnut,1,train,2266
+walnut,1,train,1990
+walnut,1,train,1995
+walnut,1,train,2261
+walnut,1,train,2288
+walnut,1,train,2128
+walnut,1,train,2281
+walnut,1,train,1988
+walnut,1,train,2295
+walnut,1,train,2262
+walnut,1,train,2302
+walnut,1,train,2264
+walnut,1,train,2259
+walnut,1,train,2250
+walnut,1,train,2297
+walnut,1,train,2280
+walnut,1,train,2289
+walnut,1,train,929
+walnut,1,train,2276
+walnut,1,train,2254
+walnut,1,train,919
+walnut,1,train,2290
+walnut,1,train,918
+walnut,1,train,608
+walnut,1,train,916
+walnut,1,train,2127
+walnut,1,train,1988
+walnut,1,train,2287
+walnut,1,test,2012
+walnut,1,test,2247
+walnut,1,test,2252
+walnut,1,test,922
+walnut,1,test,2265
+walnut,1,test,1815
+walnut,1,test,2248
+walnut,1,test,2279
+walnut,1,test,924
+walnut,1,test,1991
+walnut,1,test,2256
+walnut,1,test,609
+walnut,1,test,2251
+walnut,1,test,2255
+walnut,1,test,1817
+walnut,1,test,888
+walnut,1,test,2277
+walnut,1,test,1993
+walnut,1,test,2245
+walnut,1,test,2292
+walnut,1,test,2278
+walnut,1,test,921
+walnut,1,test,2269
+walnut,1,test,2285
+walnut,1,test,2253
+walnut,1,test,2271
+walnut,1,test,2284
+walnut,1,test,2286
+walnut,1,test,930
+walnut,1,test,2272
+walnut,1,test,927
+walnut,1,test,1991
+walnut,1,test,2245
+walnut,2,train,609
+walnut,2,train,2277
+walnut,2,train,924
+walnut,2,train,2269
+walnut,2,train,928
+walnut,2,train,2300
+walnut,2,train,927
+walnut,2,train,2278
+walnut,2,train,2272
+walnut,2,train,2279
+walnut,2,train,2255
+walnut,2,train,1994
+walnut,2,train,1989
+walnut,2,train,2270
+walnut,2,train,2012
+walnut,2,train,926
+walnut,2,train,2013
+walnut,2,train,2284
+walnut,2,train,2263
+walnut,2,train,2286
+walnut,2,train,925
+walnut,2,train,2256
+walnut,2,train,2246
+walnut,2,train,2294
+walnut,2,train,2293
+walnut,2,train,2267
+walnut,2,train,923
+walnut,2,train,2258
+walnut,2,train,2291
+walnut,2,train,1993
+walnut,2,train,2283
+walnut,2,train,2296
+walnut,2,train,917
+walnut,2,train,2245
+walnut,2,train,2298
+walnut,2,train,607
+walnut,2,train,2248
+walnut,2,train,2282
+walnut,2,train,2249
+walnut,2,train,2247
+walnut,2,train,1990
+walnut,2,train,1995
+walnut,2,train,2253
+walnut,2,train,2292
+walnut,2,train,922
+walnut,2,train,921
+walnut,2,train,2265
+walnut,2,train,2295
+walnut,2,train,1815
+walnut,2,train,2302
+walnut,2,train,2271
+walnut,2,train,1817
+walnut,2,train,1991
+walnut,2,train,2285
+walnut,2,train,930
+walnut,2,train,2251
+walnut,2,train,929
+walnut,2,train,2276
+walnut,2,train,888
+walnut,2,train,2252
+walnut,2,train,2290
+walnut,2,train,918
+walnut,2,train,608
+walnut,2,train,916
+walnut,2,train,2256
+walnut,2,train,2265
+walnut,2,train,2279
+walnut,2,test,2299
+walnut,2,test,2266
+walnut,2,test,919
+walnut,2,test,2128
+walnut,2,test,1988
+walnut,2,test,2262
+walnut,2,test,1816
+walnut,2,test,2287
+walnut,2,test,2303
+walnut,2,test,2250
+walnut,2,test,2127
+walnut,2,test,2273
+walnut,2,test,2289
+walnut,2,test,920
+walnut,2,test,2259
+walnut,2,test,2254
+walnut,2,test,1992
+walnut,2,test,2257
+walnut,2,test,2274
+walnut,2,test,2288
+walnut,2,test,2301
+walnut,2,test,2281
+walnut,2,test,2268
+walnut,2,test,2297
+walnut,2,test,2261
+walnut,2,test,2264
+walnut,2,test,2260
+walnut,2,test,2275
+walnut,2,test,2280
+walnut,2,test,2244
+walnut,2,test,889
+walnut,2,test,2250
+walnut,2,test,2274
+industrial,0,train,1282
+industrial,0,train,1529
+industrial,0,train,1261
+industrial,0,train,1530
+industrial,0,train,1276
+industrial,0,train,1440
+industrial,0,train,1251
+industrial,0,train,703
+industrial,0,train,1544
+industrial,0,train,714
+industrial,0,train,1448
+industrial,0,train,1556
+industrial,0,train,711
+industrial,0,train,1519
+industrial,0,train,1587
+industrial,0,train,1584
+industrial,0,train,1425
+industrial,0,train,1444
+industrial,0,train,1522
+industrial,0,train,1560
+industrial,0,train,1442
+industrial,0,train,1258
+industrial,0,train,1260
+industrial,0,train,1518
+industrial,0,train,1527
+industrial,0,train,707
+industrial,0,train,1256
+industrial,0,train,722
+industrial,0,train,1543
+industrial,0,train,694
+industrial,0,train,1531
+industrial,0,train,1436
+industrial,0,train,1526
+industrial,0,train,698
+industrial,0,train,706
+industrial,0,train,1577
+industrial,0,train,1524
+industrial,0,train,1521
+industrial,0,train,716
+industrial,0,train,1589
+industrial,0,train,1533
+industrial,0,train,1545
+industrial,0,train,1552
+industrial,0,train,1265
+industrial,0,train,1555
+industrial,0,train,693
+industrial,0,train,1424
+industrial,0,train,1262
+industrial,0,train,1523
+industrial,0,train,700
+industrial,0,train,719
+industrial,0,train,709
+industrial,0,train,1254
+industrial,0,train,1275
+industrial,0,train,1557
+industrial,0,train,715
+industrial,0,train,702
+industrial,0,train,718
+industrial,0,train,1249
+industrial,0,train,1582
+industrial,0,train,696
+industrial,0,train,1539
+industrial,0,train,1257
+industrial,0,train,1266
+industrial,0,train,1549
+industrial,0,train,1246
+industrial,0,train,723
+industrial,0,test,1253
+industrial,0,test,1434
+industrial,0,test,1431
+industrial,0,test,1548
+industrial,0,test,1593
+industrial,0,test,1267
+industrial,0,test,1583
+industrial,0,test,1446
+industrial,0,test,712
+industrial,0,test,1245
+industrial,0,test,1443
+industrial,0,test,1252
+industrial,0,test,701
+industrial,0,test,1558
+industrial,0,test,1581
+industrial,0,test,1525
+industrial,0,test,1588
+industrial,0,test,1247
+industrial,0,test,1540
+industrial,0,test,1580
+industrial,0,test,1250
+industrial,0,test,1546
+industrial,0,test,1441
+industrial,0,test,1437
+industrial,0,test,1550
+industrial,0,test,1432
+industrial,0,test,1532
+industrial,0,test,1578
+industrial,0,test,1528
+industrial,0,test,1536
+industrial,0,test,704
+industrial,0,test,1447
+industrial,0,test,1255
+industrial,1,train,1282
+industrial,1,train,1525
+industrial,1,train,1261
+industrial,1,train,1583
+industrial,1,train,1443
+industrial,1,train,1440
+industrial,1,train,1251
+industrial,1,train,1253
+industrial,1,train,1544
+industrial,1,train,714
+industrial,1,train,1588
+industrial,1,train,1556
+industrial,1,train,711
+industrial,1,train,1519
+industrial,1,train,1587
+industrial,1,train,1449
+industrial,1,train,1425
+industrial,1,train,1444
+industrial,1,train,1441
+industrial,1,train,1560
+industrial,1,train,1277
+industrial,1,train,1438
+industrial,1,train,1260
+industrial,1,train,1518
+industrial,1,train,1527
+industrial,1,train,1429
+industrial,1,train,1256
+industrial,1,train,1578
+industrial,1,train,1247
+industrial,1,train,1532
+industrial,1,train,1531
+industrial,1,train,712
+industrial,1,train,701
+industrial,1,train,1548
+industrial,1,train,706
+industrial,1,train,1577
+industrial,1,train,1245
+industrial,1,train,1446
+industrial,1,train,1540
+industrial,1,train,1589
+industrial,1,train,1528
+industrial,1,train,1545
+industrial,1,train,1552
+industrial,1,train,1265
+industrial,1,train,1434
+industrial,1,train,693
+industrial,1,train,1250
+industrial,1,train,1267
+industrial,1,train,1550
+industrial,1,train,700
+industrial,1,train,719
+industrial,1,train,709
+industrial,1,train,1447
+industrial,1,train,1275
+industrial,1,train,1558
+industrial,1,train,715
+industrial,1,train,1581
+industrial,1,train,718
+industrial,1,train,1249
+industrial,1,train,1592
+industrial,1,train,696
+industrial,1,train,1546
+industrial,1,train,1439
+industrial,1,train,1437
+industrial,1,train,1270
+industrial,1,train,1593
+industrial,1,train,723
+industrial,1,test,703
+industrial,1,test,1555
+industrial,1,test,1553
+industrial,1,test,698
+industrial,1,test,1246
+industrial,1,test,1262
+industrial,1,test,1530
+industrial,1,test,1521
+industrial,1,test,1436
+industrial,1,test,1524
+industrial,1,test,1276
+industrial,1,test,1271
+industrial,1,test,1526
+industrial,1,test,1557
+industrial,1,test,702
+industrial,1,test,1529
+industrial,1,test,1448
+industrial,1,test,1543
+industrial,1,test,716
+industrial,1,test,708
+industrial,1,test,1424
+industrial,1,test,1539
+industrial,1,test,1522
+industrial,1,test,1266
+industrial,1,test,1523
+industrial,1,test,1585
+industrial,1,test,694
+industrial,1,test,722
+industrial,1,test,1533
+industrial,1,test,1520
+industrial,1,test,710
+industrial,1,test,1254
+industrial,1,test,1534
+industrial,2,train,1246
+industrial,2,train,1525
+industrial,2,train,1526
+industrial,2,train,1583
+industrial,2,train,1443
+industrial,2,train,1542
+industrial,2,train,1520
+industrial,2,train,1253
+industrial,2,train,1276
+industrial,2,train,1424
+industrial,2,train,1588
+industrial,2,train,1590
+industrial,2,train,1266
+industrial,2,train,1553
+industrial,2,train,1543
+industrial,2,train,1449
+industrial,2,train,716
+industrial,2,train,1539
+industrial,2,train,1441
+industrial,2,train,1427
+industrial,2,train,1277
+industrial,2,train,1438
+industrial,2,train,707
+industrial,2,train,708
+industrial,2,train,717
+industrial,2,train,1429
+industrial,2,train,1269
+industrial,2,train,1578
+industrial,2,train,1247
+industrial,2,train,1532
+industrial,2,train,1448
+industrial,2,train,712
+industrial,2,train,701
+industrial,2,train,1548
+industrial,2,train,1524
+industrial,2,train,1585
+industrial,2,train,1245
+industrial,2,train,1446
+industrial,2,train,1540
+industrial,2,train,1254
+industrial,2,train,1528
+industrial,2,train,1533
+industrial,2,train,1262
+industrial,2,train,1265
+industrial,2,train,1434
+industrial,2,train,693
+industrial,2,train,1250
+industrial,2,train,1267
+industrial,2,train,1550
+industrial,2,train,1529
+industrial,2,train,702
+industrial,2,train,1582
+industrial,2,train,1447
+industrial,2,train,1530
+industrial,2,train,1558
+industrial,2,train,1584
+industrial,2,train,1581
+industrial,2,train,1433
+industrial,2,train,1258
+industrial,2,train,1592
+industrial,2,train,1538
+industrial,2,train,1546
+industrial,2,train,1439
+industrial,2,train,1437
+industrial,2,train,1270
+industrial,2,train,1593
+industrial,2,train,694
+industrial,2,test,1547
+industrial,2,test,1264
+industrial,2,test,1519
+industrial,2,test,1426
+industrial,2,test,1282
+industrial,2,test,1552
+industrial,2,test,1275
+industrial,2,test,705
+industrial,2,test,1535
+industrial,2,test,706
+industrial,2,test,1544
+industrial,2,test,721
+industrial,2,test,1261
+industrial,2,test,1263
+industrial,2,test,719
+industrial,2,test,700
+industrial,2,test,1531
+industrial,2,test,1587
+industrial,2,test,1425
+industrial,2,test,1518
+industrial,2,test,714
+industrial,2,test,1444
+industrial,2,test,1586
+industrial,2,test,711
+industrial,2,test,1579
+industrial,2,test,1577
+industrial,2,test,723
+industrial,2,test,695
+industrial,2,test,1545
+industrial,2,test,1251
+industrial,2,test,1541
+industrial,2,test,1589
+industrial,2,test,1274
+almond,0,train,1135
+almond,0,train,746
+almond,0,train,897
+almond,0,train,769
+almond,0,train,899
+almond,0,train,1291
+almond,0,train,1336
+almond,0,train,1293
+almond,0,train,1151
+almond,0,train,1290
+almond,0,train,776
+almond,0,train,1144
+almond,0,train,1352
+almond,0,train,1327
+almond,0,train,1299
+almond,0,train,896
+almond,0,train,1298
+almond,0,train,1595
+almond,0,train,777
+almond,0,train,1294
+almond,0,train,1140
+almond,0,train,762
+almond,0,train,1344
+almond,0,train,1597
+almond,0,train,1315
+almond,0,train,1305
+almond,0,train,1317
+almond,0,train,1138
+almond,0,train,1123
+almond,0,train,773
+almond,0,train,1331
+almond,0,train,745
+almond,0,train,1148
+almond,0,train,1330
+almond,0,train,1359
+almond,0,train,757
+almond,0,train,1141
+almond,0,train,1139
+almond,0,train,1360
+almond,0,train,779
+almond,0,train,1605
+almond,0,train,768
+almond,0,train,1134
+almond,0,train,1127
+almond,0,train,1350
+almond,0,train,1348
+almond,0,train,1312
+almond,0,train,767
+almond,0,train,1316
+almond,0,train,1594
+almond,0,train,1342
+almond,0,train,1325
+almond,0,train,752
+almond,0,train,1146
+almond,0,train,1128
+almond,0,train,778
+almond,0,train,755
+almond,0,train,1297
+almond,0,train,1329
+almond,0,train,747
+almond,0,train,1310
+almond,0,train,772
+almond,0,train,753
+almond,0,train,1301
+almond,0,train,1334
+almond,0,train,775
+almond,0,train,1129
+almond,0,test,744
+almond,0,test,743
+almond,0,test,1149
+almond,0,test,1296
+almond,0,test,1321
+almond,0,test,761
+almond,0,test,1304
+almond,0,test,1319
+almond,0,test,1604
+almond,0,test,759
+almond,0,test,1600
+almond,0,test,1150
+almond,0,test,1332
+almond,0,test,1341
+almond,0,test,1606
+almond,0,test,1362
+almond,0,test,1323
+almond,0,test,1306
+almond,0,test,1346
+almond,0,test,1124
+almond,0,test,1125
+almond,0,test,1302
+almond,0,test,1303
+almond,0,test,1333
+almond,0,test,1354
+almond,0,test,1599
+almond,0,test,1601
+almond,0,test,1131
+almond,0,test,1322
+almond,0,test,1153
+almond,0,test,1326
+almond,0,test,765
+almond,0,test,1343
+almond,1,train,1135
+almond,1,train,746
+almond,1,train,897
+almond,1,train,1125
+almond,1,train,1326
+almond,1,train,1345
+almond,1,train,1336
+almond,1,train,1293
+almond,1,train,1324
+almond,1,train,1333
+almond,1,train,1362
+almond,1,train,1606
+almond,1,train,1323
+almond,1,train,1337
+almond,1,train,1124
+almond,1,train,896
+almond,1,train,1298
+almond,1,train,1595
+almond,1,train,1604
+almond,1,train,1319
+almond,1,train,1140
+almond,1,train,762
+almond,1,train,1344
+almond,1,train,1597
+almond,1,train,1315
+almond,1,train,744
+almond,1,train,1347
+almond,1,train,1138
+almond,1,train,1153
+almond,1,train,773
+almond,1,train,1332
+almond,1,train,745
+almond,1,train,1302
+almond,1,train,1330
+almond,1,train,1306
+almond,1,train,1599
+almond,1,train,1141
+almond,1,train,1139
+almond,1,train,1360
+almond,1,train,779
+almond,1,train,1605
+almond,1,train,751
+almond,1,train,1145
+almond,1,train,743
+almond,1,train,1350
+almond,1,train,1321
+almond,1,train,1312
+almond,1,train,1304
+almond,1,train,1316
+almond,1,train,759
+almond,1,train,1342
+almond,1,train,1354
+almond,1,train,1303
+almond,1,train,1146
+almond,1,train,765
+almond,1,train,778
+almond,1,train,1346
+almond,1,train,1343
+almond,1,train,1131
+almond,1,train,747
+almond,1,train,1310
+almond,1,train,772
+almond,1,train,742
+almond,1,train,1150
+almond,1,train,1296
+almond,1,train,1322
+almond,1,train,1129
+almond,1,test,1305
+almond,1,test,1127
+almond,1,test,780
+almond,1,test,1334
+almond,1,test,1348
+almond,1,test,1603
+almond,1,test,767
+almond,1,test,1294
+almond,1,test,777
+almond,1,test,1594
+almond,1,test,1338
+almond,1,test,1301
+almond,1,test,1331
+almond,1,test,1292
+almond,1,test,1144
+almond,1,test,776
+almond,1,test,1352
+almond,1,test,1359
+almond,1,test,755
+almond,1,test,1299
+almond,1,test,769
+almond,1,test,1148
+almond,1,test,752
+almond,1,test,1290
+almond,1,test,1325
+almond,1,test,757
+almond,1,test,766
+almond,1,test,1329
+almond,1,test,775
+almond,1,test,1123
+almond,1,test,899
+almond,1,test,1128
+almond,1,test,1297
+almond,2,train,770
+almond,2,train,1317
+almond,2,train,755
+almond,2,train,1125
+almond,2,train,1326
+almond,2,train,1345
+almond,2,train,1338
+almond,2,train,767
+almond,2,train,1324
+almond,2,train,1333
+almond,2,train,1362
+almond,2,train,1606
+almond,2,train,1323
+almond,2,train,1337
+almond,2,train,1124
+almond,2,train,1128
+almond,2,train,754
+almond,2,train,777
+almond,2,train,1604
+almond,2,train,1319
+almond,2,train,1594
+almond,2,train,1329
+almond,2,train,1359
+almond,2,train,1151
+almond,2,train,1144
+almond,2,train,744
+almond,2,train,1347
+almond,2,train,750
+almond,2,train,1153
+almond,2,train,753
+almond,2,train,1332
+almond,2,train,1339
+almond,2,train,1302
+almond,2,train,1330
+almond,2,train,1306
+almond,2,train,1599
+almond,2,train,898
+almond,2,train,899
+almond,2,train,1291
+almond,2,train,1348
+almond,2,train,768
+almond,2,train,751
+almond,2,train,1145
+almond,2,train,743
+almond,2,train,757
+almond,2,train,1321
+almond,2,train,1299
+almond,2,train,1304
+almond,2,train,1313
+almond,2,train,759
+almond,2,train,1325
+almond,2,train,1354
+almond,2,train,1303
+almond,2,train,1331
+almond,2,train,765
+almond,2,train,1290
+almond,2,train,1346
+almond,2,train,1343
+almond,2,train,1131
+almond,2,train,1148
+almond,2,train,1305
+almond,2,train,766
+almond,2,train,742
+almond,2,train,1150
+almond,2,train,1296
+almond,2,train,1322
+almond,2,train,1301
+almond,2,test,1310
+almond,2,test,1152
+almond,2,test,1357
+almond,2,test,1307
+almond,2,test,779
+almond,2,test,1137
+almond,2,test,1293
+almond,2,test,1596
+almond,2,test,1595
+almond,2,test,1140
+almond,2,test,1336
+almond,2,test,1129
+almond,2,test,1146
+almond,2,test,749
+almond,2,test,1315
+almond,2,test,758
+almond,2,test,1602
+almond,2,test,1344
+almond,2,test,897
+almond,2,test,1312
+almond,2,test,756
+almond,2,test,747
+almond,2,test,1356
+almond,2,test,778
+almond,2,test,1342
+almond,2,test,1350
+almond,2,test,772
+almond,2,test,762
+almond,2,test,1130
+almond,2,test,1353
+almond,2,test,1139
+almond,2,test,896
+almond,2,test,1147
+avocado,0,train,1154
+avocado,0,train,1705
+avocado,0,train,2133
+avocado,0,train,1708
+avocado,0,train,1689
+avocado,0,train,983
+avocado,0,train,1625
+avocado,0,train,1049
+avocado,0,train,1614
+avocado,0,train,1633
+avocado,0,train,1039
+avocado,0,train,1686
+avocado,0,train,1635
+avocado,0,train,1610
+avocado,0,train,978
+avocado,0,train,1047
+avocado,0,train,1053
+avocado,0,train,1627
+avocado,0,train,985
+avocado,0,train,1040
+avocado,0,train,1643
+avocado,0,train,1607
+avocado,0,train,1647
+avocado,0,train,1043
+avocado,0,train,1159
+avocado,0,train,1644
+avocado,0,train,984
+avocado,0,train,974
+avocado,0,train,2136
+avocado,0,train,1181
+avocado,0,train,1962
+avocado,0,train,1709
+avocado,0,train,1046
+avocado,0,train,1611
+avocado,0,train,1634
+avocado,0,train,1157
+avocado,0,train,1566
+avocado,0,train,1613
+avocado,0,train,1160
+avocado,0,train,1692
+avocado,0,train,1609
+avocado,0,train,1048
+avocado,0,train,1628
+avocado,0,train,1041
+avocado,0,train,1688
+avocado,0,train,1054
+avocado,0,train,1036
+avocado,0,train,1707
+avocado,0,train,1961
+avocado,0,train,1561
+avocado,0,train,1037
+avocado,0,train,1058
+avocado,0,train,1690
+avocado,0,train,1703
+avocado,0,train,2137
+avocado,0,train,1052
+avocado,0,train,1045
+avocado,0,train,975
+avocado,0,train,1704
+avocado,0,train,1706
+avocado,0,train,976
+avocado,0,train,980
+avocado,0,train,1687
+avocado,0,train,1700
+avocado,0,train,1624
+avocado,0,train,1963
+avocado,0,train,1685
+avocado,0,test,1038
+avocado,0,test,1059
+avocado,0,test,1629
+avocado,0,test,989
+avocado,0,test,1562
+avocado,0,test,1057
+avocado,0,test,1637
+avocado,0,test,1631
+avocado,0,test,1051
+avocado,0,test,2138
+avocado,0,test,1563
+avocado,0,test,1639
+avocado,0,test,1161
+avocado,0,test,1042
+avocado,0,test,2134
+avocado,0,test,1626
+avocado,0,test,1698
+avocado,0,test,2135
+avocado,0,test,1155
+avocado,0,test,1564
+avocado,0,test,981
+avocado,0,test,1034
+avocado,0,test,988
+avocado,0,test,1035
+avocado,0,test,1632
+avocado,0,test,1033
+avocado,0,test,1640
+avocado,0,test,2212
+avocado,0,test,1056
+avocado,0,test,1646
+avocado,0,test,2139
+avocado,0,test,1638
+avocado,0,test,977
+avocado,1,train,1154
+avocado,1,train,1705
+avocado,1,train,1051
+avocado,1,train,1708
+avocado,1,train,1637
+avocado,1,train,1640
+avocado,1,train,1625
+avocado,1,train,1562
+avocado,1,train,1629
+avocado,1,train,1633
+avocado,1,train,1039
+avocado,1,train,1686
+avocado,1,train,1635
+avocado,1,train,1034
+avocado,1,train,978
+avocado,1,train,1047
+avocado,1,train,1161
+avocado,1,train,1627
+avocado,1,train,985
+avocado,1,train,1564
+avocado,1,train,1038
+avocado,1,train,1563
+avocado,1,train,1632
+avocado,1,train,1043
+avocado,1,train,1159
+avocado,1,train,1644
+avocado,1,train,988
+avocado,1,train,2134
+avocado,1,train,1059
+avocado,1,train,2138
+avocado,1,train,1962
+avocado,1,train,2212
+avocado,1,train,1057
+avocado,1,train,1631
+avocado,1,train,2135
+avocado,1,train,1626
+avocado,1,train,1646
+avocado,1,train,1613
+avocado,1,train,1160
+avocado,1,train,1692
+avocado,1,train,1609
+avocado,1,train,1048
+avocado,1,train,1628
+avocado,1,train,989
+avocado,1,train,1688
+avocado,1,train,981
+avocado,1,train,1036
+avocado,1,train,1033
+avocado,1,train,1608
+avocado,1,train,1639
+avocado,1,train,1037
+avocado,1,train,1058
+avocado,1,train,1690
+avocado,1,train,1703
+avocado,1,train,2137
+avocado,1,train,1052
+avocado,1,train,982
+avocado,1,train,1056
+avocado,1,train,1704
+avocado,1,train,1042
+avocado,1,train,976
+avocado,1,train,980
+avocado,1,train,1687
+avocado,1,train,1155
+avocado,1,train,1624
+avocado,1,train,1963
+avocado,1,train,1698
+avocado,1,test,1643
+avocado,1,test,2136
+avocado,1,test,1614
+avocado,1,test,1041
+avocado,1,test,1049
+avocado,1,test,1046
+avocado,1,test,1689
+avocado,1,test,1611
+avocado,1,test,2133
+avocado,1,test,1181
+avocado,1,test,1607
+avocado,1,test,1561
+avocado,1,test,1053
+avocado,1,test,1706
+avocado,1,test,974
+avocado,1,test,1157
+avocado,1,test,1685
+avocado,1,test,1634
+avocado,1,test,1700
+avocado,1,test,1040
+avocado,1,test,1054
+avocado,1,test,1610
+avocado,1,test,984
+avocado,1,test,1156
+avocado,1,test,1647
+avocado,1,test,1707
+avocado,1,test,983
+avocado,1,test,1709
+avocado,1,test,975
+avocado,1,test,1566
+avocado,1,test,987
+avocado,1,test,1565
+avocado,1,test,1964
+avocado,2,train,2133
+avocado,2,train,1630
+avocado,2,train,1051
+avocado,2,train,1964
+avocado,2,train,1637
+avocado,2,train,1640
+avocado,2,train,1053
+avocado,2,train,1562
+avocado,2,train,1629
+avocado,2,train,1643
+avocado,2,train,1685
+avocado,2,train,1706
+avocado,2,train,1634
+avocado,2,train,1034
+avocado,2,train,2142
+avocado,2,train,1158
+avocado,2,train,1161
+avocado,2,train,1647
+avocado,2,train,984
+avocado,2,train,1564
+avocado,2,train,1038
+avocado,2,train,1563
+avocado,2,train,1632
+avocado,2,train,1156
+avocado,2,train,1159
+avocado,2,train,1046
+avocado,2,train,988
+avocado,2,train,2134
+avocado,2,train,1059
+avocado,2,train,2138
+avocado,2,train,1181
+avocado,2,train,2212
+avocado,2,train,1057
+avocado,2,train,1631
+avocado,2,train,2135
+avocado,2,train,1626
+avocado,2,train,1646
+avocado,2,train,1612
+avocado,2,train,983
+avocado,2,train,2136
+avocado,2,train,1707
+avocado,2,train,975
+avocado,2,train,987
+avocado,2,train,989
+avocado,2,train,1699
+avocado,2,train,981
+avocado,2,train,1040
+avocado,2,train,1033
+avocado,2,train,1608
+avocado,2,train,1639
+avocado,2,train,1610
+avocado,2,train,1561
+avocado,2,train,1709
+avocado,2,train,1054
+avocado,2,train,1961
+avocado,2,train,1607
+avocado,2,train,982
+avocado,2,train,1056
+avocado,2,train,1645
+avocado,2,train,1042
+avocado,2,train,1157
+avocado,2,train,1689
+avocado,2,train,1614
+avocado,2,train,1155
+avocado,2,train,1700
+avocado,2,train,1049
+avocado,2,train,1698
+avocado,2,test,1633
+avocado,2,test,1692
+avocado,2,test,1687
+avocado,2,test,979
+avocado,2,test,1963
+avocado,2,test,1644
+avocado,2,test,980
+avocado,2,test,1691
+avocado,2,test,1154
+avocado,2,test,1962
+avocado,2,test,1052
+avocado,2,test,1058
+avocado,2,test,1625
+avocado,2,test,1686
+avocado,2,test,1050
+avocado,2,test,976
+avocado,2,test,1039
+avocado,2,test,1635
+avocado,2,test,1624
+avocado,2,test,1036
+avocado,2,test,1703
+avocado,2,test,1037
+avocado,2,test,985
+avocado,2,test,1043
+avocado,2,test,1627
+avocado,2,test,1609
+avocado,2,test,1160
+avocado,2,test,1690
+avocado,2,test,1048
+avocado,2,test,1636
+avocado,2,test,1628
+avocado,2,test,1615
+avocado,2,test,1708
+barren,0,train,2095
+barren,0,train,2439
+barren,0,train,2096
+barren,0,train,2427
+barren,0,train,2411
+barren,0,train,1976
+barren,0,train,2221
+barren,0,train,2400
+barren,0,train,1027
+barren,0,train,2433
+barren,0,train,2225
+barren,0,train,2422
+barren,0,train,2432
+barren,0,train,2440
+barren,0,train,2413
+barren,0,train,2090
+barren,0,train,1019
+barren,0,train,2434
+barren,0,train,2435
+barren,0,train,2409
+barren,0,train,2446
+barren,0,train,1028
+barren,0,train,2087
+barren,0,train,2214
+barren,0,train,2443
+barren,0,train,2442
+barren,0,train,2097
+barren,0,train,2417
+barren,0,train,2222
+barren,0,train,1983
+barren,0,train,2438
+barren,0,train,2099
+barren,0,train,2219
+barren,0,train,1987
+barren,0,train,1021
+barren,0,train,2451
+barren,0,train,2401
+barren,0,train,2444
+barren,0,train,2093
+barren,0,train,2088
+barren,0,train,1982
+barren,0,train,2223
+barren,0,train,1985
+barren,0,train,2098
+barren,0,train,2226
+barren,0,train,1979
+barren,0,train,2220
+barren,0,train,1024
+barren,0,train,1977
+barren,0,train,1023
+barren,0,train,2216
+barren,0,train,2403
+barren,0,train,2092
+barren,0,train,2410
+barren,0,train,2091
+barren,0,train,1031
+barren,0,train,2086
+barren,0,train,2224
+barren,0,train,2436
+barren,0,train,2447
+barren,0,train,2094
+barren,0,train,2415
+barren,0,train,2418
+barren,0,train,2414
+barren,0,train,1025
+barren,0,train,1026
+barren,0,train,2424
+barren,0,test,2428
+barren,0,test,2437
+barren,0,test,2405
+barren,0,test,2100
+barren,0,test,1022
+barren,0,test,2404
+barren,0,test,2445
+barren,0,test,1974
+barren,0,test,1018
+barren,0,test,2430
+barren,0,test,2213
+barren,0,test,2423
+barren,0,test,2215
+barren,0,test,2089
+barren,0,test,1029
+barren,0,test,2227
+barren,0,test,2448
+barren,0,test,1978
+barren,0,test,2408
+barren,0,test,2416
+barren,0,test,2421
+barren,0,test,2412
+barren,0,test,2429
+barren,0,test,2426
+barren,0,test,2450
+barren,0,test,2218
+barren,0,test,2419
+barren,0,test,2402
+barren,0,test,2449
+barren,0,test,2425
+barren,0,test,1020
+barren,0,test,1030
+barren,0,test,2101
+barren,1,train,2402
+barren,1,train,2430
+barren,1,train,2096
+barren,1,train,2427
+barren,1,train,2404
+barren,1,train,2428
+barren,1,train,2431
+barren,1,train,2400
+barren,1,train,2089
+barren,1,train,2433
+barren,1,train,2225
+barren,1,train,2423
+barren,1,train,2426
+barren,1,train,2419
+barren,1,train,2413
+barren,1,train,2090
+barren,1,train,2405
+barren,1,train,2434
+barren,1,train,1032
+barren,1,train,2409
+barren,1,train,2445
+barren,1,train,1028
+barren,1,train,2450
+barren,1,train,1978
+barren,1,train,1020
+barren,1,train,2442
+barren,1,train,2097
+barren,1,train,2417
+barren,1,train,2222
+barren,1,train,1983
+barren,1,train,2438
+barren,1,train,2099
+barren,1,train,2215
+barren,1,train,1987
+barren,1,train,1974
+barren,1,train,2451
+barren,1,train,2449
+barren,1,train,2444
+barren,1,train,2093
+barren,1,train,1029
+barren,1,train,2227
+barren,1,train,1030
+barren,1,train,2429
+barren,1,train,1022
+barren,1,train,2213
+barren,1,train,2406
+barren,1,train,2220
+barren,1,train,1024
+barren,1,train,1977
+barren,1,train,2416
+barren,1,train,2216
+barren,1,train,2403
+barren,1,train,2092
+barren,1,train,2448
+barren,1,train,2100
+barren,1,train,1018
+barren,1,train,2412
+barren,1,train,2421
+barren,1,train,2436
+barren,1,train,2447
+barren,1,train,2094
+barren,1,train,2415
+barren,1,train,2437
+barren,1,train,2425
+barren,1,train,2408
+barren,1,train,2218
+barren,1,train,2424
+barren,1,test,1976
+barren,1,test,2418
+barren,1,test,1019
+barren,1,test,2091
+barren,1,test,2098
+barren,1,test,2411
+barren,1,test,2446
+barren,1,test,1021
+barren,1,test,1031
+barren,1,test,2439
+barren,1,test,2226
+barren,1,test,2422
+barren,1,test,2219
+barren,1,test,1027
+barren,1,test,2088
+barren,1,test,1982
+barren,1,test,2410
+barren,1,test,2214
+barren,1,test,1025
+barren,1,test,1023
+barren,1,test,2224
+barren,1,test,2086
+barren,1,test,1985
+barren,1,test,2432
+barren,1,test,2087
+barren,1,test,1026
+barren,1,test,2440
+barren,1,test,2095
+barren,1,test,2401
+barren,1,test,2414
+barren,1,test,2443
+barren,1,test,2223
+barren,1,test,2217
+barren,2,train,2402
+barren,2,train,2430
+barren,2,train,2422
+barren,2,train,2088
+barren,2,train,2404
+barren,2,train,2428
+barren,2,train,2431
+barren,2,train,2095
+barren,2,train,2089
+barren,2,train,2086
+barren,2,train,2225
+barren,2,train,2423
+barren,2,train,2426
+barren,2,train,2419
+barren,2,train,2401
+barren,2,train,2440
+barren,2,train,2405
+barren,2,train,2223
+barren,2,train,1032
+barren,2,train,2091
+barren,2,train,2445
+barren,2,train,1021
+barren,2,train,2450
+barren,2,train,1978
+barren,2,train,1020
+barren,2,train,2418
+barren,2,train,2435
+barren,2,train,2410
+barren,2,train,2219
+barren,2,train,2224
+barren,2,train,1019
+barren,2,train,2226
+barren,2,train,2215
+barren,2,train,1023
+barren,2,train,1974
+barren,2,train,2432
+barren,2,train,2449
+barren,2,train,1031
+barren,2,train,2411
+barren,2,train,1029
+barren,2,train,2227
+barren,2,train,1030
+barren,2,train,2429
+barren,2,train,1022
+barren,2,train,2213
+barren,2,train,2406
+barren,2,train,1976
+barren,2,train,1981
+barren,2,train,1985
+barren,2,train,2416
+barren,2,train,2098
+barren,2,train,2446
+barren,2,train,2217
+barren,2,train,2448
+barren,2,train,2100
+barren,2,train,1018
+barren,2,train,2412
+barren,2,train,2421
+barren,2,train,2414
+barren,2,train,1979
+barren,2,train,1026
+barren,2,train,2214
+barren,2,train,2437
+barren,2,train,2425
+barren,2,train,2408
+barren,2,train,2218
+barren,2,train,1982
+barren,2,test,2220
+barren,2,test,2442
+barren,2,test,2438
+barren,2,test,2409
+barren,2,test,2216
+barren,2,test,2093
+barren,2,test,2403
+barren,2,test,1028
+barren,2,test,2444
+barren,2,test,1984
+barren,2,test,2099
+barren,2,test,2096
+barren,2,test,2222
+barren,2,test,2407
+barren,2,test,2427
+barren,2,test,2424
+barren,2,test,2417
+barren,2,test,2415
+barren,2,test,2441
+barren,2,test,1987
+barren,2,test,1983
+barren,2,test,2433
+barren,2,test,1977
+barren,2,test,2451
+barren,2,test,1980
+barren,2,test,2094
+barren,2,test,2090
+barren,2,test,2400
+barren,2,test,2413
+barren,2,test,2436
+barren,2,test,1986
+barren,2,test,2434
+barren,2,test,2092
+table grap,0,train,1455
+table grap,0,train,1931
+table grap,0,train,1374
+table grap,0,train,1701
+table grap,0,train,1402
+table grap,0,train,1695
+table grap,0,train,2188
+table grap,0,train,1732
+table grap,0,train,1915
+table grap,0,train,2179
+table grap,0,train,1918
+table grap,0,train,1718
+table grap,0,train,1450
+table grap,0,train,1934
+table grap,0,train,2173
+table grap,0,train,2007
+table grap,0,train,1716
+table grap,0,train,1663
+table grap,0,train,1968
+table grap,0,train,2182
+table grap,0,train,1368
+table grap,0,train,2171
+table grap,0,train,2003
+table grap,0,train,1956
+table grap,0,train,2156
+table grap,0,train,2147
+table grap,0,train,1827
+table grap,0,train,1917
+table grap,0,train,2006
+table grap,0,train,2158
+table grap,0,train,2103
+table grap,0,train,1924
+table grap,0,train,1937
+table grap,0,train,1835
+table grap,0,train,1456
+table grap,0,train,1728
+table grap,0,train,1400
+table grap,0,train,1398
+table grap,0,train,2130
+table grap,0,train,2144
+table grap,0,train,2131
+table grap,0,train,2008
+table grap,0,train,1753
+table grap,0,train,1757
+table grap,0,train,2009
+table grap,0,train,1966
+table grap,0,train,2149
+table grap,0,train,2175
+table grap,0,train,1459
+table grap,0,train,1942
+table grap,0,train,1122
+table grap,0,train,2164
+table grap,0,train,1733
+table grap,0,train,1973
+table grap,0,train,1726
+table grap,0,train,1364
+table grap,0,train,2181
+table grap,0,train,1714
+table grap,0,train,2187
+table grap,0,train,1375
+table grap,0,train,1919
+table grap,0,train,1960
+table grap,0,train,1694
+table grap,0,train,1938
+table grap,0,train,1721
+table grap,0,train,1453
+table grap,0,train,1693
+table grap,0,test,1758
+table grap,0,test,1457
+table grap,0,test,1730
+table grap,0,test,1717
+table grap,0,test,1824
+table grap,0,test,1834
+table grap,0,test,1715
+table grap,0,test,2186
+table grap,0,test,1914
+table grap,0,test,1751
+table grap,0,test,1365
+table grap,0,test,1724
+table grap,0,test,2154
+table grap,0,test,1725
+table grap,0,test,2170
+table grap,0,test,2180
+table grap,0,test,2146
+table grap,0,test,1121
+table grap,0,test,2155
+table grap,0,test,2185
+table grap,0,test,1926
+table grap,0,test,1404
+table grap,0,test,2183
+table grap,0,test,1930
+table grap,0,test,1723
+table grap,0,test,1367
+table grap,0,test,2178
+table grap,0,test,2165
+table grap,0,test,1925
+table grap,0,test,1936
+table grap,0,test,1661
+table grap,0,test,1711
+table grap,0,test,1939
+table grap,1,train,2146
+table grap,1,train,1931
+table grap,1,train,2161
+table grap,1,train,1701
+table grap,1,train,1402
+table grap,1,train,1121
+table grap,1,train,2188
+table grap,1,train,1732
+table grap,1,train,1915
+table grap,1,train,1404
+table grap,1,train,1723
+table grap,1,train,1718
+table grap,1,train,1450
+table grap,1,train,1934
+table grap,1,train,2186
+table grap,1,train,1930
+table grap,1,train,1824
+table grap,1,train,1715
+table grap,1,train,1730
+table grap,1,train,2182
+table grap,1,train,1368
+table grap,1,train,1834
+table grap,1,train,1936
+table grap,1,train,1665
+table grap,1,train,2156
+table grap,1,train,2147
+table grap,1,train,1661
+table grap,1,train,1457
+table grap,1,train,2183
+table grap,1,train,2158
+table grap,1,train,2103
+table grap,1,train,2160
+table grap,1,train,1937
+table grap,1,train,1925
+table grap,1,train,1401
+table grap,1,train,1717
+table grap,1,train,1400
+table grap,1,train,2177
+table grap,1,train,2180
+table grap,1,train,2144
+table grap,1,train,2131
+table grap,1,train,1927
+table grap,1,train,1725
+table grap,1,train,1757
+table grap,1,train,2009
+table grap,1,train,1955
+table grap,1,train,1935
+table grap,1,train,1914
+table grap,1,train,1459
+table grap,1,train,1942
+table grap,1,train,2165
+table grap,1,train,2164
+table grap,1,train,1711
+table grap,1,train,1973
+table grap,1,train,1726
+table grap,1,train,1364
+table grap,1,train,2181
+table grap,1,train,1714
+table grap,1,train,1118
+table grap,1,train,1375
+table grap,1,train,1919
+table grap,1,train,1960
+table grap,1,train,1120
+table grap,1,train,1938
+table grap,1,train,1933
+table grap,1,train,1453
+table grap,1,train,1693
+table grap,1,test,1735
+table grap,1,test,1917
+table grap,1,test,1968
+table grap,1,test,1728
+table grap,1,test,1716
+table grap,1,test,2171
+table grap,1,test,1663
+table grap,1,test,2173
+table grap,1,test,2175
+table grap,1,test,1928
+table grap,1,test,1366
+table grap,1,test,2163
+table grap,1,test,1727
+table grap,1,test,1753
+table grap,1,test,1752
+table grap,1,test,2130
+table grap,1,test,1455
+table grap,1,test,1695
+table grap,1,test,1662
+table grap,1,test,1923
+table grap,1,test,1958
+table grap,1,test,2179
+table grap,1,test,2006
+table grap,1,test,2007
+table grap,1,test,1918
+table grap,1,test,1666
+table grap,1,test,1664
+table grap,1,test,1122
+table grap,1,test,1835
+table grap,1,test,2003
+table grap,1,test,1827
+table grap,1,test,1733
+table grap,1,test,1967
+table grap,2,train,2146
+table grap,2,train,2184
+table grap,2,train,2161
+table grap,2,train,1924
+table grap,2,train,1917
+table grap,2,train,1121
+table grap,2,train,2175
+table grap,2,train,1968
+table grap,2,train,2008
+table grap,2,train,1404
+table grap,2,train,1723
+table grap,2,train,2163
+table grap,2,train,1958
+table grap,2,train,1666
+table grap,2,train,2186
+table grap,2,train,1930
+table grap,2,train,1824
+table grap,2,train,1715
+table grap,2,train,1730
+table grap,2,train,1827
+table grap,2,train,1956
+table grap,2,train,1834
+table grap,2,train,1936
+table grap,2,train,1665
+table grap,2,train,1918
+table grap,2,train,1731
+table grap,2,train,1661
+table grap,2,train,1457
+table grap,2,train,2183
+table grap,2,train,1835
+table grap,2,train,1366
+table grap,2,train,2160
+table grap,2,train,1716
+table grap,2,train,1925
+table grap,2,train,1401
+table grap,2,train,1717
+table grap,2,train,1916
+table grap,2,train,2177
+table grap,2,train,2180
+table grap,2,train,2150
+table grap,2,train,2153
+table grap,2,train,1927
+table grap,2,train,1725
+table grap,2,train,2143
+table grap,2,train,1922
+table grap,2,train,1955
+table grap,2,train,1935
+table grap,2,train,1914
+table grap,2,train,1727
+table grap,2,train,1928
+table grap,2,train,2165
+table grap,2,train,1735
+table grap,2,train,1711
+table grap,2,train,1662
+table grap,2,train,2106
+table grap,2,train,1733
+table grap,2,train,1941
+table grap,2,train,1967
+table grap,2,train,1118
+table grap,2,train,1832
+table grap,2,train,2006
+table grap,2,train,1451
+table grap,2,train,1120
+table grap,2,train,1829
+table grap,2,train,1933
+table grap,2,train,2187
+table grap,2,train,2171
+table grap,2,test,2164
+table grap,2,test,1402
+table grap,2,test,1732
+table grap,2,test,1408
+table grap,2,test,1937
+table grap,2,test,1693
+table grap,2,test,2157
+table grap,2,test,2159
+table grap,2,test,2188
+table grap,2,test,1942
+table grap,2,test,2103
+table grap,2,test,1718
+table grap,2,test,1459
+table grap,2,test,1454
+table grap,2,test,1372
+table grap,2,test,1660
+table grap,2,test,2129
+table grap,2,test,1932
+table grap,2,test,1973
+table grap,2,test,1369
+table grap,2,test,1450
+table grap,2,test,1969
+table grap,2,test,1919
+table grap,2,test,1965
+table grap,2,test,2156
+table grap,2,test,1934
+table grap,2,test,1940
+table grap,2,test,1826
+table grap,2,test,2158
+table grap,2,test,1405
+table grap,2,test,2182
+table grap,2,test,1364
+table grap,2,test,1714
+lemon,0,train,1166
+lemon,0,train,2343
+lemon,0,train,2341
+lemon,0,train,2314
+lemon,0,train,1512
+lemon,0,train,2306
+lemon,0,train,2319
+lemon,0,train,1172
+lemon,0,train,1170
+lemon,0,train,1511
+lemon,0,train,2208
+lemon,0,train,2327
+lemon,0,train,2189
+lemon,0,train,2320
+lemon,0,train,2311
+lemon,0,train,2197
+lemon,0,train,2198
+lemon,0,train,2350
+lemon,0,train,1178
+lemon,0,train,2337
+lemon,0,train,2330
+lemon,0,train,1515
+lemon,0,train,2316
+lemon,0,train,2194
+lemon,0,train,2321
+lemon,0,train,2339
+lemon,0,train,1510
+lemon,0,train,2349
+lemon,0,train,1650
+lemon,0,train,2310
+lemon,0,train,2307
+lemon,0,train,1169
+lemon,0,train,2324
+lemon,0,train,1574
+lemon,0,train,1165
+lemon,0,train,1179
+lemon,0,train,2304
+lemon,0,train,2315
+lemon,0,train,2333
+lemon,0,train,2203
+lemon,0,train,2210
+lemon,0,train,2342
+lemon,0,train,2202
+lemon,0,train,2346
+lemon,0,train,2209
+lemon,0,train,2204
+lemon,0,train,2347
+lemon,0,train,2317
+lemon,0,train,2196
+lemon,0,train,2328
+lemon,0,train,1649
+lemon,0,train,2205
+lemon,0,train,1575
+lemon,0,train,2329
+lemon,0,train,2308
+lemon,0,train,2312
+lemon,0,train,2200
+lemon,0,train,2344
+lemon,0,train,1180
+lemon,0,train,2305
+lemon,0,train,1173
+lemon,0,train,1573
+lemon,0,train,2334
+lemon,0,train,2329
+lemon,0,train,1574
+lemon,0,train,2315
+lemon,0,train,2327
+lemon,0,test,1648
+lemon,0,test,2322
+lemon,0,test,2313
+lemon,0,test,2318
+lemon,0,test,2325
+lemon,0,test,2351
+lemon,0,test,1174
+lemon,0,test,2332
+lemon,0,test,2340
+lemon,0,test,2348
+lemon,0,test,2206
+lemon,0,test,2323
+lemon,0,test,2336
+lemon,0,test,2207
+lemon,0,test,2309
+lemon,0,test,2199
+lemon,0,test,2195
+lemon,0,test,1167
+lemon,0,test,2190
+lemon,0,test,2335
+lemon,0,test,2326
+lemon,0,test,2338
+lemon,0,test,1516
+lemon,0,test,1164
+lemon,0,test,2345
+lemon,0,test,1168
+lemon,0,test,1171
+lemon,0,test,2331
+lemon,0,test,2201
+lemon,0,test,1517
+lemon,0,test,1513
+lemon,0,test,2338
+lemon,0,test,1164
+lemon,1,train,2309
+lemon,1,train,2343
+lemon,1,train,2336
+lemon,1,train,2325
+lemon,1,train,1512
+lemon,1,train,2306
+lemon,1,train,2319
+lemon,1,train,2323
+lemon,1,train,1170
+lemon,1,train,2332
+lemon,1,train,1174
+lemon,1,train,2327
+lemon,1,train,2189
+lemon,1,train,2313
+lemon,1,train,2206
+lemon,1,train,2197
+lemon,1,train,2322
+lemon,1,train,2199
+lemon,1,train,1178
+lemon,1,train,2337
+lemon,1,train,2207
+lemon,1,train,1515
+lemon,1,train,2316
+lemon,1,train,2194
+lemon,1,train,2321
+lemon,1,train,2348
+lemon,1,train,1510
+lemon,1,train,2349
+lemon,1,train,1650
+lemon,1,train,2201
+lemon,1,train,2190
+lemon,1,train,1648
+lemon,1,train,2324
+lemon,1,train,1574
+lemon,1,train,2345
+lemon,1,train,1179
+lemon,1,train,2340
+lemon,1,train,1167
+lemon,1,train,2333
+lemon,1,train,2203
+lemon,1,train,2210
+lemon,1,train,2342
+lemon,1,train,2202
+lemon,1,train,2338
+lemon,1,train,2318
+lemon,1,train,2195
+lemon,1,train,2347
+lemon,1,train,2317
+lemon,1,train,1168
+lemon,1,train,2335
+lemon,1,train,1649
+lemon,1,train,2326
+lemon,1,train,2331
+lemon,1,train,1516
+lemon,1,train,1164
+lemon,1,train,2351
+lemon,1,train,2200
+lemon,1,train,2344
+lemon,1,train,1171
+lemon,1,train,2305
+lemon,1,train,1173
+lemon,1,train,1517
+lemon,1,train,1513
+lemon,1,train,1516
+lemon,1,train,1574
+lemon,1,train,1167
+lemon,1,train,2327
+lemon,1,test,1169
+lemon,1,test,2198
+lemon,1,test,2320
+lemon,1,test,2209
+lemon,1,test,2314
+lemon,1,test,2312
+lemon,1,test,2208
+lemon,1,test,1511
+lemon,1,test,2304
+lemon,1,test,2339
+lemon,1,test,2311
+lemon,1,test,1172
+lemon,1,test,2341
+lemon,1,test,2330
+lemon,1,test,1166
+lemon,1,test,2350
+lemon,1,test,2204
+lemon,1,test,2315
+lemon,1,test,2307
+lemon,1,test,2328
+lemon,1,test,2205
+lemon,1,test,2346
+lemon,1,test,2329
+lemon,1,test,2308
+lemon,1,test,1165
+lemon,1,test,2196
+lemon,1,test,1180
+lemon,1,test,1575
+lemon,1,test,2310
+lemon,1,test,1573
+lemon,1,test,2334
+lemon,1,test,2346
+lemon,1,test,2308
+lemon,2,train,2309
+lemon,2,train,1511
+lemon,2,train,2336
+lemon,2,train,2325
+lemon,2,train,1575
+lemon,2,train,2334
+lemon,2,train,1169
+lemon,2,train,2323
+lemon,2,train,2329
+lemon,2,train,2332
+lemon,2,train,1174
+lemon,2,train,2196
+lemon,2,train,2208
+lemon,2,train,2313
+lemon,2,train,2206
+lemon,2,train,2320
+lemon,2,train,2322
+lemon,2,train,2199
+lemon,2,train,1166
+lemon,2,train,2328
+lemon,2,train,2207
+lemon,2,train,1172
+lemon,2,train,2312
+lemon,2,train,2341
+lemon,2,train,2204
+lemon,2,train,2348
+lemon,2,train,2198
+lemon,2,train,2339
+lemon,2,train,2308
+lemon,2,train,2201
+lemon,2,train,2190
+lemon,2,train,1648
+lemon,2,train,2307
+lemon,2,train,2346
+lemon,2,train,2345
+lemon,2,train,2209
+lemon,2,train,2340
+lemon,2,train,1167
+lemon,2,train,2205
+lemon,2,train,1165
+lemon,2,train,2350
+lemon,2,train,2304
+lemon,2,train,1573
+lemon,2,train,2338
+lemon,2,train,2318
+lemon,2,train,2195
+lemon,2,train,2330
+lemon,2,train,2314
+lemon,2,train,1168
+lemon,2,train,2335
+lemon,2,train,1649
+lemon,2,train,2326
+lemon,2,train,2331
+lemon,2,train,1516
+lemon,2,train,1164
+lemon,2,train,2351
+lemon,2,train,2311
+lemon,2,train,2310
+lemon,2,train,1171
+lemon,2,train,2315
+lemon,2,train,1180
+lemon,2,train,1517
+lemon,2,train,1513
+lemon,2,train,1516
+lemon,2,train,2346
+lemon,2,train,1167
+lemon,2,train,2196
+lemon,2,test,2319
+lemon,2,test,1510
+lemon,2,test,2197
+lemon,2,test,1179
+lemon,2,test,2317
+lemon,2,test,2316
+lemon,2,test,2189
+lemon,2,test,2343
+lemon,2,test,2342
+lemon,2,test,2349
+lemon,2,test,2200
+lemon,2,test,1515
+lemon,2,test,2194
+lemon,2,test,2347
+lemon,2,test,1178
+lemon,2,test,2210
+lemon,2,test,2321
+lemon,2,test,2305
+lemon,2,test,2324
+lemon,2,test,2337
+lemon,2,test,2333
+lemon,2,test,1574
+lemon,2,test,1170
+lemon,2,test,1650
+lemon,2,test,2203
+lemon,2,test,2327
+lemon,2,test,1173
+lemon,2,test,1512
+lemon,2,test,2344
+lemon,2,test,2202
+lemon,2,test,2306
+lemon,2,test,1574
+lemon,2,test,1650
+water,0,train,1760
+water,0,train,2104
+water,0,train,1772
+water,0,train,1766
+water,0,train,1782
+water,0,train,2122
+water,0,train,1784
+water,0,train,2228
+water,0,train,2240
+water,0,train,2242
+water,0,train,1774
+water,0,train,1773
+water,0,train,1783
+water,0,train,1789
+water,0,train,1785
+water,0,train,2111
+water,0,train,1798
+water,0,train,2000
+water,0,train,1761
+water,0,train,2114
+water,0,train,1771
+water,0,train,1764
+water,0,train,1800
+water,0,train,2116
+water,0,train,1803
+water,0,train,2110
+water,0,train,1786
+water,0,train,2237
+water,0,train,1776
+water,0,train,1768
+water,0,train,2238
+water,0,train,1777
+water,0,train,1801
+water,0,train,1810
+water,0,train,1791
+water,0,train,2241
+water,0,train,2118
+water,0,train,2229
+water,0,train,1762
+water,0,train,1799
+water,0,train,2120
+water,0,train,1778
+water,0,train,1808
+water,0,train,2231
+water,0,train,2233
+water,0,train,1775
+water,0,train,1796
+water,0,train,1797
+water,0,train,1809
+water,0,train,2113
+water,0,train,1788
+water,0,train,1770
+water,0,train,1767
+water,0,train,2119
+water,0,train,2112
+water,0,train,2001
+water,0,train,1765
+water,0,train,2122
+water,0,train,2229
+water,0,train,2229
+water,0,train,2241
+water,0,train,2237
+water,0,train,1773
+water,0,train,1808
+water,0,train,2118
+water,0,train,1789
+water,0,train,1773
+water,0,test,1780
+water,0,test,2115
+water,0,test,2234
+water,0,test,2109
+water,0,test,1779
+water,0,test,2236
+water,0,test,1792
+water,0,test,1790
+water,0,test,1787
+water,0,test,2230
+water,0,test,1802
+water,0,test,1804
+water,0,test,1759
+water,0,test,1793
+water,0,test,2239
+water,0,test,1763
+water,0,test,1794
+water,0,test,2121
+water,0,test,1769
+water,0,test,2243
+water,0,test,1806
+water,0,test,2235
+water,0,test,1805
+water,0,test,2117
+water,0,test,1807
+water,0,test,2232
+water,0,test,1795
+water,0,test,1781
+water,0,test,1779
+water,0,test,1787
+water,0,test,1780
+water,0,test,2115
+water,0,test,2243
+water,1,train,1760
+water,1,train,2104
+water,1,train,1772
+water,1,train,1766
+water,1,train,1782
+water,1,train,2122
+water,1,train,1784
+water,1,train,2228
+water,1,train,2240
+water,1,train,2234
+water,1,train,1774
+water,1,train,2230
+water,1,train,1783
+water,1,train,1789
+water,1,train,1785
+water,1,train,2111
+water,1,train,1798
+water,1,train,2000
+water,1,train,1761
+water,1,train,2114
+water,1,train,1793
+water,1,train,1804
+water,1,train,2109
+water,1,train,2116
+water,1,train,1807
+water,1,train,2110
+water,1,train,1802
+water,1,train,2237
+water,1,train,1776
+water,1,train,1768
+water,1,train,2115
+water,1,train,1780
+water,1,train,1787
+water,1,train,1794
+water,1,train,1805
+water,1,train,2236
+water,1,train,2118
+water,1,train,1779
+water,1,train,1762
+water,1,train,1790
+water,1,train,1763
+water,1,train,1792
+water,1,train,1808
+water,1,train,1759
+water,1,train,2239
+water,1,train,1775
+water,1,train,2121
+water,1,train,1769
+water,1,train,2243
+water,1,train,1806
+water,1,train,2235
+water,1,train,1770
+water,1,train,2117
+water,1,train,1781
+water,1,train,2232
+water,1,train,1795
+water,1,train,1765
+water,1,train,2122
+water,1,train,1779
+water,1,train,1779
+water,1,train,2236
+water,1,train,2237
+water,1,train,2230
+water,1,train,1808
+water,1,train,2118
+water,1,train,1789
+water,1,train,2230
+water,1,test,1777
+water,1,test,2238
+water,1,test,2242
+water,1,test,1800
+water,1,test,2229
+water,1,test,2241
+water,1,test,1778
+water,1,test,1799
+water,1,test,1801
+water,1,test,1773
+water,1,test,1786
+water,1,test,1764
+water,1,test,2231
+water,1,test,1771
+water,1,test,2233
+water,1,test,2120
+water,1,test,1810
+water,1,test,1796
+water,1,test,1797
+water,1,test,1809
+water,1,test,2113
+water,1,test,1788
+water,1,test,1791
+water,1,test,1767
+water,1,test,1803
+water,1,test,2112
+water,1,test,2001
+water,1,test,2119
+water,1,test,2229
+water,1,test,1801
+water,1,test,1777
+water,1,test,2238
+water,1,test,1809
+water,2,train,1797
+water,2,train,1800
+water,2,train,1799
+water,2,train,1778
+water,2,train,2229
+water,2,train,1810
+water,2,train,1786
+water,2,train,2228
+water,2,train,1801
+water,2,train,2234
+water,2,train,1777
+water,2,train,2230
+water,2,train,2241
+water,2,train,2119
+water,2,train,2233
+water,2,train,1796
+water,2,train,1791
+water,2,train,1809
+water,2,train,1803
+water,2,train,2113
+water,2,train,1793
+water,2,train,1804
+water,2,train,2109
+water,2,train,1771
+water,2,train,1807
+water,2,train,1767
+water,2,train,1802
+water,2,train,1788
+water,2,train,1773
+water,2,train,2120
+water,2,train,2115
+water,2,train,1780
+water,2,train,1787
+water,2,train,1794
+water,2,train,1805
+water,2,train,2236
+water,2,train,2238
+water,2,train,1779
+water,2,train,2242
+water,2,train,1790
+water,2,train,1763
+water,2,train,1792
+water,2,train,2112
+water,2,train,1759
+water,2,train,2239
+water,2,train,2231
+water,2,train,2121
+water,2,train,1769
+water,2,train,2243
+water,2,train,1806
+water,2,train,2235
+water,2,train,2001
+water,2,train,2117
+water,2,train,1781
+water,2,train,2232
+water,2,train,1795
+water,2,train,1764
+water,2,train,1810
+water,2,train,1779
+water,2,train,1779
+water,2,train,2236
+water,2,train,1788
+water,2,train,2230
+water,2,train,2112
+water,2,train,2238
+water,2,train,2119
+water,2,train,2230
+water,2,test,1774
+water,2,test,2118
+water,2,test,1762
+water,2,test,2104
+water,2,test,1782
+water,2,test,1783
+water,2,test,1766
+water,2,test,1772
+water,2,test,2240
+water,2,test,1776
+water,2,test,1784
+water,2,test,1765
+water,2,test,1775
+water,2,test,2116
+water,2,test,1785
+water,2,test,1768
+water,2,test,2122
+water,2,test,2111
+water,2,test,1760
+water,2,test,2000
+water,2,test,2114
+water,2,test,2237
+water,2,test,1798
+water,2,test,2110
+water,2,test,1761
+water,2,test,1808
+water,2,test,1770
+water,2,test,1789
+water,2,test,1782
+water,2,test,2240
+water,2,test,1774
+water,2,test,2118
+water,2,test,2000
+urban,0,train,1836
+urban,0,train,2394
+urban,0,train,2387
+urban,0,train,1838
+urban,0,train,1878
+urban,0,train,1849
+urban,0,train,1852
+urban,0,train,2380
+urban,0,train,2381
+urban,0,train,1873
+urban,0,train,1857
+urban,0,train,2393
+urban,0,train,2389
+urban,0,train,1855
+urban,0,train,2399
+urban,0,train,2383
+urban,0,train,1839
+urban,0,train,2369
+urban,0,train,1847
+urban,0,train,1885
+urban,0,train,2384
+urban,0,train,1860
+urban,0,train,1863
+urban,0,train,2378
+urban,0,train,2358
+urban,0,train,1880
+urban,0,train,2356
+urban,0,train,2368
+urban,0,train,2375
+urban,0,train,2372
+urban,0,train,2360
+urban,0,train,2359
+urban,0,train,2363
+urban,0,train,1843
+urban,0,train,2396
+urban,0,train,1868
+urban,0,train,1846
+urban,0,train,1851
+urban,0,train,1869
+urban,0,train,1879
+urban,0,train,1862
+urban,0,train,2373
+urban,0,train,1866
+urban,0,train,1875
+urban,0,train,2355
+urban,0,train,2376
+urban,0,train,1861
+urban,0,train,1854
+urban,0,train,1837
+urban,0,train,1848
+urban,0,train,2354
+urban,0,train,2367
+urban,0,train,2352
+urban,0,train,2370
+urban,0,train,1867
+urban,0,train,1882
+urban,0,train,2353
+urban,0,train,2391
+urban,0,train,2362
+urban,0,train,1871
+urban,0,train,2361
+urban,0,train,1877
+urban,0,train,1865
+urban,0,train,1886
+urban,0,train,1884
+urban,0,train,1881
+urban,0,train,1878
+urban,0,test,2385
+urban,0,test,2379
+urban,0,test,1872
+urban,0,test,2398
+urban,0,test,1876
+urban,0,test,1859
+urban,0,test,2365
+urban,0,test,1874
+urban,0,test,2390
+urban,0,test,1864
+urban,0,test,2386
+urban,0,test,1841
+urban,0,test,1844
+urban,0,test,1883
+urban,0,test,2371
+urban,0,test,1856
+urban,0,test,2357
+urban,0,test,2374
+urban,0,test,2388
+urban,0,test,1845
+urban,0,test,2366
+urban,0,test,1858
+urban,0,test,2395
+urban,0,test,1840
+urban,0,test,1850
+urban,0,test,2392
+urban,0,test,2382
+urban,0,test,2364
+urban,0,test,1870
+urban,0,test,1853
+urban,0,test,2377
+urban,0,test,2397
+urban,0,test,1842
+urban,1,train,1836
+urban,1,train,2394
+urban,1,train,2388
+urban,1,train,1874
+urban,1,train,2365
+urban,1,train,2395
+urban,1,train,2364
+urban,1,train,2385
+urban,1,train,1870
+urban,1,train,1873
+urban,1,train,2366
+urban,1,train,2393
+urban,1,train,2398
+urban,1,train,2390
+urban,1,train,2399
+urban,1,train,2371
+urban,1,train,1840
+urban,1,train,1850
+urban,1,train,2392
+urban,1,train,1885
+urban,1,train,2357
+urban,1,train,1860
+urban,1,train,2386
+urban,1,train,2378
+urban,1,train,1876
+urban,1,train,1880
+urban,1,train,2356
+urban,1,train,2379
+urban,1,train,2375
+urban,1,train,2372
+urban,1,train,2360
+urban,1,train,2382
+urban,1,train,2363
+urban,1,train,1858
+urban,1,train,2396
+urban,1,train,1859
+urban,1,train,1846
+urban,1,train,1864
+urban,1,train,1869
+urban,1,train,1879
+urban,1,train,1862
+urban,1,train,2373
+urban,1,train,1841
+urban,1,train,1875
+urban,1,train,2355
+urban,1,train,1856
+urban,1,train,2377
+urban,1,train,1844
+urban,1,train,1845
+urban,1,train,1848
+urban,1,train,1842
+urban,1,train,2374
+urban,1,train,2352
+urban,1,train,2370
+urban,1,train,1867
+urban,1,train,1882
+urban,1,train,2353
+urban,1,train,1872
+urban,1,train,2362
+urban,1,train,1871
+urban,1,train,2361
+urban,1,train,1883
+urban,1,train,1865
+urban,1,train,1853
+urban,1,train,1884
+urban,1,train,2397
+urban,1,train,2365
+urban,1,test,2380
+urban,1,test,2368
+urban,1,test,2391
+urban,1,test,2389
+urban,1,test,2358
+urban,1,test,1868
+urban,1,test,1878
+urban,1,test,1838
+urban,1,test,1855
+urban,1,test,1851
+urban,1,test,1863
+urban,1,test,1866
+urban,1,test,1854
+urban,1,test,1877
+urban,1,test,2383
+urban,1,test,2376
+urban,1,test,2384
+urban,1,test,2367
+urban,1,test,2387
+urban,1,test,1837
+urban,1,test,1857
+urban,1,test,1843
+urban,1,test,1849
+urban,1,test,1839
+urban,1,test,2369
+urban,1,test,1847
+urban,1,test,2359
+urban,1,test,1852
+urban,1,test,2381
+urban,1,test,1886
+urban,1,test,1861
+urban,1,test,1881
+urban,1,test,2354
+urban,2,train,1855
+urban,2,train,2358
+urban,2,train,2388
+urban,2,train,1874
+urban,2,train,2365
+urban,2,train,2395
+urban,2,train,2364
+urban,2,train,2385
+urban,2,train,1870
+urban,2,train,2384
+urban,2,train,2366
+urban,2,train,1866
+urban,2,train,2398
+urban,2,train,2390
+urban,2,train,1878
+urban,2,train,2371
+urban,2,train,1840
+urban,2,train,1850
+urban,2,train,2392
+urban,2,train,1861
+urban,2,train,2357
+urban,2,train,2383
+urban,2,train,2386
+urban,2,train,1857
+urban,2,train,1876
+urban,2,train,1847
+urban,2,train,1881
+urban,2,train,2379
+urban,2,train,1837
+urban,2,train,1839
+urban,2,train,1849
+urban,2,train,2382
+urban,2,train,2368
+urban,2,train,1858
+urban,2,train,1843
+urban,2,train,1859
+urban,2,train,2381
+urban,2,train,1864
+urban,2,train,1854
+urban,2,train,1886
+urban,2,train,2376
+urban,2,train,1877
+urban,2,train,1841
+urban,2,train,2367
+urban,2,train,1852
+urban,2,train,1856
+urban,2,train,2377
+urban,2,train,1844
+urban,2,train,1845
+urban,2,train,1868
+urban,2,train,1842
+urban,2,train,2374
+urban,2,train,2354
+urban,2,train,2389
+urban,2,train,2387
+urban,2,train,1863
+urban,2,train,1851
+urban,2,train,1872
+urban,2,train,2391
+urban,2,train,2369
+urban,2,train,2380
+urban,2,train,1883
+urban,2,train,2359
+urban,2,train,1853
+urban,2,train,1838
+urban,2,train,2397
+urban,2,train,2365
+urban,2,test,2361
+urban,2,test,2363
+urban,2,test,2362
+urban,2,test,2370
+urban,2,test,2394
+urban,2,test,1848
+urban,2,test,2399
+urban,2,test,1884
+urban,2,test,1836
+urban,2,test,2353
+urban,2,test,1882
+urban,2,test,2393
+urban,2,test,1869
+urban,2,test,2373
+urban,2,test,1860
+urban,2,test,1862
+urban,2,test,1873
+urban,2,test,1875
+urban,2,test,1867
+urban,2,test,2375
+urban,2,test,2378
+urban,2,test,2396
+urban,2,test,2360
+urban,2,test,2372
+urban,2,test,1871
+urban,2,test,1880
+urban,2,test,1865
+urban,2,test,2355
+urban,2,test,1846
+urban,2,test,1879
+urban,2,test,1885
+urban,2,test,2356
+urban,2,test,2352
+riverside ,0,train,2026
+riverside ,0,train,2017
+riverside ,0,train,2057
+riverside ,0,train,2080
+riverside ,0,train,2677
+riverside ,0,train,2052
+riverside ,0,train,2046
+riverside ,0,train,2682
+riverside ,0,train,2038
+riverside ,0,train,2058
+riverside ,0,train,2035
+riverside ,0,train,2069
+riverside ,0,train,2051
+riverside ,0,train,2043
+riverside ,0,train,2074
+riverside ,0,train,2047
+riverside ,0,train,2030
+riverside ,0,train,2071
+riverside ,0,train,2666
+riverside ,0,train,2053
+riverside ,0,train,2048
+riverside ,0,train,2025
+riverside ,0,train,2683
+riverside ,0,train,2665
+riverside ,0,train,2031
+riverside ,0,train,2062
+riverside ,0,train,2042
+riverside ,0,train,2081
+riverside ,0,train,2083
+riverside ,0,train,2045
+riverside ,0,train,2668
+riverside ,0,train,2065
+riverside ,0,train,2671
+riverside ,0,train,2033
+riverside ,0,train,2673
+riverside ,0,train,2078
+riverside ,0,train,2028
+riverside ,0,train,2022
+riverside ,0,train,2064
+riverside ,0,train,2015
+riverside ,0,train,2044
+riverside ,0,train,2034
+riverside ,0,train,2055
+riverside ,0,train,2067
+riverside ,0,train,2032
+riverside ,0,train,2036
+riverside ,0,train,2675
+riverside ,0,train,2669
+riverside ,0,train,2050
+riverside ,0,train,2024
+riverside ,0,train,2068
+riverside ,0,train,2029
+riverside ,0,train,2664
+riverside ,0,train,2679
+riverside ,0,train,2667
+riverside ,0,train,2039
+riverside ,0,train,2680
+riverside ,0,train,2027
+riverside ,0,train,2072
+riverside ,0,train,2676
+riverside ,0,train,2079
+riverside ,0,train,2073
+riverside ,0,train,2035
+riverside ,0,train,2027
+riverside ,0,train,2052
+riverside ,0,train,2035
+riverside ,0,train,2047
+riverside ,0,test,2019
+riverside ,0,test,2056
+riverside ,0,test,2681
+riverside ,0,test,2070
+riverside ,0,test,2060
+riverside ,0,test,2678
+riverside ,0,test,2082
+riverside ,0,test,2016
+riverside ,0,test,2021
+riverside ,0,test,2672
+riverside ,0,test,2061
+riverside ,0,test,2674
+riverside ,0,test,2018
+riverside ,0,test,2076
+riverside ,0,test,2063
+riverside ,0,test,2037
+riverside ,0,test,2077
+riverside ,0,test,2023
+riverside ,0,test,2670
+riverside ,0,test,2054
+riverside ,0,test,2040
+riverside ,0,test,2085
+riverside ,0,test,2059
+riverside ,0,test,2020
+riverside ,0,test,2066
+riverside ,0,test,2084
+riverside ,0,test,2075
+riverside ,0,test,2041
+riverside ,0,test,2049
+riverside ,0,test,2014
+riverside ,0,test,2084
+riverside ,0,test,2060
+riverside ,0,test,2061
+riverside ,1,train,2026
+riverside ,1,train,2681
+riverside ,1,train,2057
+riverside ,1,train,2080
+riverside ,1,train,2677
+riverside ,1,train,2052
+riverside ,1,train,2678
+riverside ,1,train,2682
+riverside ,1,train,2038
+riverside ,1,train,2058
+riverside ,1,train,2070
+riverside ,1,train,2069
+riverside ,1,train,2051
+riverside ,1,train,2040
+riverside ,1,train,2054
+riverside ,1,train,2047
+riverside ,1,train,2030
+riverside ,1,train,2071
+riverside ,1,train,2049
+riverside ,1,train,2016
+riverside ,1,train,2048
+riverside ,1,train,2025
+riverside ,1,train,2021
+riverside ,1,train,2674
+riverside ,1,train,2056
+riverside ,1,train,2019
+riverside ,1,train,2042
+riverside ,1,train,2061
+riverside ,1,train,2083
+riverside ,1,train,2045
+riverside ,1,train,2059
+riverside ,1,train,2018
+riverside ,1,train,2082
+riverside ,1,train,2033
+riverside ,1,train,2673
+riverside ,1,train,2078
+riverside ,1,train,2028
+riverside ,1,train,2085
+riverside ,1,train,2064
+riverside ,1,train,2060
+riverside ,1,train,2023
+riverside ,1,train,2034
+riverside ,1,train,2055
+riverside ,1,train,2037
+riverside ,1,train,2066
+riverside ,1,train,2036
+riverside ,1,train,2084
+riverside ,1,train,2670
+riverside ,1,train,2077
+riverside ,1,train,2024
+riverside ,1,train,2076
+riverside ,1,train,2029
+riverside ,1,train,2672
+riverside ,1,train,2063
+riverside ,1,train,2667
+riverside ,1,train,2020
+riverside ,1,train,2680
+riverside ,1,train,2027
+riverside ,1,train,2075
+riverside ,1,train,2041
+riverside ,1,train,2079
+riverside ,1,train,2014
+riverside ,1,train,2070
+riverside ,1,train,2027
+riverside ,1,train,2052
+riverside ,1,train,2070
+riverside ,1,train,2047
+riverside ,1,test,2039
+riverside ,1,test,2062
+riverside ,1,test,2683
+riverside ,1,test,2676
+riverside ,1,test,2668
+riverside ,1,test,2044
+riverside ,1,test,2035
+riverside ,1,test,2081
+riverside ,1,test,2067
+riverside ,1,test,2050
+riverside ,1,test,2666
+riverside ,1,test,2074
+riverside ,1,test,2679
+riverside ,1,test,2017
+riverside ,1,test,2046
+riverside ,1,test,2073
+riverside ,1,test,2675
+riverside ,1,test,2053
+riverside ,1,test,2669
+riverside ,1,test,2031
+riverside ,1,test,2072
+riverside ,1,test,2665
+riverside ,1,test,2664
+riverside ,1,test,2015
+riverside ,1,test,2671
+riverside ,1,test,2068
+riverside ,1,test,2032
+riverside ,1,test,2022
+riverside ,1,test,2043
+riverside ,1,test,2065
+riverside ,1,test,2067
+riverside ,1,test,2044
+riverside ,1,test,2671
+riverside ,2,train,2664
+riverside ,2,train,2681
+riverside ,2,train,2031
+riverside ,2,train,2073
+riverside ,2,train,2677
+riverside ,2,train,2675
+riverside ,2,train,2678
+riverside ,2,train,2669
+riverside ,2,train,2679
+riverside ,2,train,2072
+riverside ,2,train,2070
+riverside ,2,train,2050
+riverside ,2,train,2039
+riverside ,2,train,2040
+riverside ,2,train,2054
+riverside ,2,train,2683
+riverside ,2,train,2065
+riverside ,2,train,2044
+riverside ,2,train,2049
+riverside ,2,train,2016
+riverside ,2,train,2022
+riverside ,2,train,2671
+riverside ,2,train,2021
+riverside ,2,train,2674
+riverside ,2,train,2056
+riverside ,2,train,2019
+riverside ,2,train,2676
+riverside ,2,train,2061
+riverside ,2,train,2668
+riverside ,2,train,2067
+riverside ,2,train,2059
+riverside ,2,train,2018
+riverside ,2,train,2082
+riverside ,2,train,2015
+riverside ,2,train,2017
+riverside ,2,train,2046
+riverside ,2,train,2043
+riverside ,2,train,2085
+riverside ,2,train,2081
+riverside ,2,train,2060
+riverside ,2,train,2023
+riverside ,2,train,2035
+riverside ,2,train,2053
+riverside ,2,train,2037
+riverside ,2,train,2066
+riverside ,2,train,2068
+riverside ,2,train,2084
+riverside ,2,train,2670
+riverside ,2,train,2077
+riverside ,2,train,2074
+riverside ,2,train,2076
+riverside ,2,train,2029
+riverside ,2,train,2672
+riverside ,2,train,2063
+riverside ,2,train,2032
+riverside ,2,train,2020
+riverside ,2,train,2062
+riverside ,2,train,2666
+riverside ,2,train,2075
+riverside ,2,train,2041
+riverside ,2,train,2665
+riverside ,2,train,2014
+riverside ,2,train,2070
+riverside ,2,train,2666
+riverside ,2,train,2675
+riverside ,2,train,2070
+riverside ,2,train,2683
+riverside ,2,test,2680
+riverside ,2,test,2057
+riverside ,2,test,2673
+riverside ,2,test,2034
+riverside ,2,test,2033
+riverside ,2,test,2078
+riverside ,2,test,2025
+riverside ,2,test,2055
+riverside ,2,test,2047
+riverside ,2,test,2026
+riverside ,2,test,2064
+riverside ,2,test,2079
+riverside ,2,test,2030
+riverside ,2,test,2036
+riverside ,2,test,2038
+riverside ,2,test,2045
+riverside ,2,test,2069
+riverside ,2,test,2071
+riverside ,2,test,2682
+riverside ,2,test,2024
+riverside ,2,test,2028
+riverside ,2,test,2048
+riverside ,2,test,2083
+riverside ,2,test,2051
+riverside ,2,test,2667
+riverside ,2,test,2052
+riverside ,2,test,2058
+riverside ,2,test,2042
+riverside ,2,test,2027
+riverside ,2,test,2080
+riverside ,2,test,2052
+riverside ,2,test,2033
+riverside ,2,test,2064
+barren sha,0,train,2535
+barren sha,0,train,2581
+barren sha,0,train,2528
+barren sha,0,train,2547
+barren sha,0,train,2562
+barren sha,0,train,2517
+barren sha,0,train,2501
+barren sha,0,train,2605
+barren sha,0,train,2566
+barren sha,0,train,2618
+barren sha,0,train,2554
+barren sha,0,train,2553
+barren sha,0,train,2603
+barren sha,0,train,2456
+barren sha,0,train,2463
+barren sha,0,train,2596
+barren sha,0,train,2525
+barren sha,0,train,2617
+barren sha,0,train,2488
+barren sha,0,train,2591
+barren sha,0,train,2522
+barren sha,0,train,2616
+barren sha,0,train,2594
+barren sha,0,train,2556
+barren sha,0,train,2578
+barren sha,0,train,2550
+barren sha,0,train,2505
+barren sha,0,train,2544
+barren sha,0,train,2560
+barren sha,0,train,2511
+barren sha,0,train,2606
+barren sha,0,train,2592
+barren sha,0,train,2610
+barren sha,0,train,2478
+barren sha,0,train,2520
+barren sha,0,train,2454
+barren sha,0,train,2506
+barren sha,0,train,2473
+barren sha,0,train,2492
+barren sha,0,train,2508
+barren sha,0,train,2537
+barren sha,0,train,2462
+barren sha,0,train,2502
+barren sha,0,train,2509
+barren sha,0,train,2602
+barren sha,0,train,2464
+barren sha,0,train,2474
+barren sha,0,train,2475
+barren sha,0,train,2601
+barren sha,0,train,2552
+barren sha,0,train,2570
+barren sha,0,train,2499
+barren sha,0,train,2468
+barren sha,0,train,2461
+barren sha,0,train,2545
+barren sha,0,train,2593
+barren sha,0,train,2490
+barren sha,0,train,2599
+barren sha,0,train,2513
+barren sha,0,train,2540
+barren sha,0,train,2580
+barren sha,0,train,2487
+barren sha,0,train,2518
+barren sha,0,train,2582
+barren sha,0,train,2572
+barren sha,0,train,2532
+barren sha,0,train,2549
+barren sha,0,test,2567
+barren sha,0,test,2483
+barren sha,0,test,2559
+barren sha,0,test,2573
+barren sha,0,test,2519
+barren sha,0,test,2485
+barren sha,0,test,2569
+barren sha,0,test,2503
+barren sha,0,test,2524
+barren sha,0,test,2597
+barren sha,0,test,2534
+barren sha,0,test,2551
+barren sha,0,test,2576
+barren sha,0,test,2604
+barren sha,0,test,2497
+barren sha,0,test,2584
+barren sha,0,test,2568
+barren sha,0,test,2574
+barren sha,0,test,2608
+barren sha,0,test,2586
+barren sha,0,test,2498
+barren sha,0,test,2459
+barren sha,0,test,2557
+barren sha,0,test,2500
+barren sha,0,test,2536
+barren sha,0,test,2575
+barren sha,0,test,2579
+barren sha,0,test,2484
+barren sha,0,test,2455
+barren sha,0,test,2469
+barren sha,0,test,2542
+barren sha,0,test,2611
+barren sha,0,test,2521
+barren sha,1,train,2536
+barren sha,1,train,2581
+barren sha,1,train,2485
+barren sha,1,train,2547
+barren sha,1,train,2562
+barren sha,1,train,2494
+barren sha,1,train,2611
+barren sha,1,train,2609
+barren sha,1,train,2523
+barren sha,1,train,2574
+barren sha,1,train,2500
+barren sha,1,train,2524
+barren sha,1,train,2600
+barren sha,1,train,2456
+barren sha,1,train,2497
+barren sha,1,train,2542
+barren sha,1,train,2575
+barren sha,1,train,2617
+barren sha,1,train,2503
+barren sha,1,train,2591
+barren sha,1,train,2534
+barren sha,1,train,2616
+barren sha,1,train,2594
+barren sha,1,train,2556
+barren sha,1,train,2578
+barren sha,1,train,2550
+barren sha,1,train,2586
+barren sha,1,train,2544
+barren sha,1,train,2560
+barren sha,1,train,2470
+barren sha,1,train,2476
+barren sha,1,train,2460
+barren sha,1,train,2610
+barren sha,1,train,2478
+barren sha,1,train,2520
+barren sha,1,train,2454
+barren sha,1,train,2506
+barren sha,1,train,2473
+barren sha,1,train,2492
+barren sha,1,train,2568
+barren sha,1,train,2537
+barren sha,1,train,2462
+barren sha,1,train,2502
+barren sha,1,train,2483
+barren sha,1,train,2602
+barren sha,1,train,2464
+barren sha,1,train,2474
+barren sha,1,train,2475
+barren sha,1,train,2567
+barren sha,1,train,2569
+barren sha,1,train,2471
+barren sha,1,train,2597
+barren sha,1,train,2468
+barren sha,1,train,2461
+barren sha,1,train,2584
+barren sha,1,train,2593
+barren sha,1,train,2490
+barren sha,1,train,2557
+barren sha,1,train,2615
+barren sha,1,train,2573
+barren sha,1,train,2519
+barren sha,1,train,2561
+barren sha,1,train,2595
+barren sha,1,train,2582
+barren sha,1,train,2572
+barren sha,1,train,2532
+barren sha,1,train,2498
+barren sha,1,test,2601
+barren sha,1,test,2509
+barren sha,1,test,2480
+barren sha,1,test,2540
+barren sha,1,test,2580
+barren sha,1,test,2528
+barren sha,1,test,2552
+barren sha,1,test,2488
+barren sha,1,test,2553
+barren sha,1,test,2499
+barren sha,1,test,2522
+barren sha,1,test,2507
+barren sha,1,test,2530
+barren sha,1,test,2563
+barren sha,1,test,2463
+barren sha,1,test,2545
+barren sha,1,test,2508
+barren sha,1,test,2618
+barren sha,1,test,2558
+barren sha,1,test,2505
+barren sha,1,test,2549
+barren sha,1,test,2613
+barren sha,1,test,2599
+barren sha,1,test,2554
+barren sha,1,test,2535
+barren sha,1,test,2525
+barren sha,1,test,2589
+barren sha,1,test,2486
+barren sha,1,test,2577
+barren sha,1,test,2607
+barren sha,1,test,2596
+barren sha,1,test,2501
+barren sha,1,test,2495
+barren sha,2,train,2536
+barren sha,2,train,2522
+barren sha,2,train,2485
+barren sha,2,train,2545
+barren sha,2,train,2548
+barren sha,2,train,2494
+barren sha,2,train,2611
+barren sha,2,train,2609
+barren sha,2,train,2523
+barren sha,2,train,2574
+barren sha,2,train,2500
+barren sha,2,train,2524
+barren sha,2,train,2600
+barren sha,2,train,2566
+barren sha,2,train,2497
+barren sha,2,train,2542
+barren sha,2,train,2575
+barren sha,2,train,2577
+barren sha,2,train,2503
+barren sha,2,train,2535
+barren sha,2,train,2534
+barren sha,2,train,2499
+barren sha,2,train,2618
+barren sha,2,train,2563
+barren sha,2,train,2570
+barren sha,2,train,2613
+barren sha,2,train,2586
+barren sha,2,train,2463
+barren sha,2,train,2477
+barren sha,2,train,2470
+barren sha,2,train,2476
+barren sha,2,train,2460
+barren sha,2,train,2601
+barren sha,2,train,2543
+barren sha,2,train,2596
+barren sha,2,train,2496
+barren sha,2,train,2507
+barren sha,2,train,2554
+barren sha,2,train,2553
+barren sha,2,train,2568
+barren sha,2,train,2505
+barren sha,2,train,2580
+barren sha,2,train,2539
+barren sha,2,train,2483
+barren sha,2,train,2605
+barren sha,2,train,2509
+barren sha,2,train,2564
+barren sha,2,train,2487
+barren sha,2,train,2567
+barren sha,2,train,2569
+barren sha,2,train,2471
+barren sha,2,train,2597
+barren sha,2,train,2518
+barren sha,2,train,2452
+barren sha,2,train,2584
+barren sha,2,train,2495
+barren sha,2,train,2488
+barren sha,2,train,2557
+barren sha,2,train,2615
+barren sha,2,train,2573
+barren sha,2,train,2519
+barren sha,2,train,2561
+barren sha,2,train,2595
+barren sha,2,train,2540
+barren sha,2,train,2606
+barren sha,2,train,2552
+barren sha,2,train,2498
+barren sha,2,test,2610
+barren sha,2,test,2464
+barren sha,2,test,2516
+barren sha,2,test,2582
+barren sha,2,test,2462
+barren sha,2,test,2512
+barren sha,2,test,2532
+barren sha,2,test,2490
+barren sha,2,test,2492
+barren sha,2,test,2616
+barren sha,2,test,2581
+barren sha,2,test,2506
+barren sha,2,test,2465
+barren sha,2,test,2556
+barren sha,2,test,2544
+barren sha,2,test,2547
+barren sha,2,test,2565
+barren sha,2,test,2594
+barren sha,2,test,2526
+barren sha,2,test,2537
+barren sha,2,test,2614
+barren sha,2,test,2550
+barren sha,2,test,2510
+barren sha,2,test,2473
+barren sha,2,test,2591
+barren sha,2,test,2541
+barren sha,2,test,2458
+barren sha,2,test,2585
+barren sha,2,test,2617
+barren sha,2,test,2504
+barren sha,2,test,2520
+barren sha,2,test,2479
+barren sha,2,test,2593
