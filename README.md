@@ -52,7 +52,7 @@ The `scenes_example/` directory contains example Sentinel-2 GeoTIFF files for te
 - `B02.tif`, `B03.tif`, `B04.tif`, `B08.tif` — Individual band rasters for a spatial subset
 
 ### Output Files
-- `./data/final_classification_map.tif` — Final crop classification map produced by the inference pipeline
+- Final class probabilities from TRF models and final classification map are stored in Zenodo: [https://doi.org/10.5281/zenodo.19868872](https://zenodo.org/records/19868872)
 
 
 ## Usage

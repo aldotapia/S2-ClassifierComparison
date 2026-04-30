@@ -31,7 +31,7 @@ files = ["scenes_example/B02.tif",
 
 num_classes = 16
 seq_len = 69
-opath = '.'
+opath = './example_classification_output'
 channels = 4
 
 processed_folds = []
